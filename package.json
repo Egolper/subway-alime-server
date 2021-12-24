@@ -24,7 +24,7 @@
   },
   "scripts": {
     "dev": "nodemon --watch \"src/**/*.ts\" --exec \"ts-node\" -r \"tsconfig-paths/register\" --files src/app.ts",
-    "start": "yarn build && yarn serve",
+    "start": "yarn install && yarn build && yarn serve",
     "build": "tsc -p .",
     "serve": "node dist/app.js"
   }
