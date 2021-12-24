@@ -37,7 +37,7 @@ export const generateError = ({
 };
 
 export const errorLogger: ErrorRequestHandler = (err, req, res, next) => {
-  if (err.status >= 500) console.error(err.stack);
+  if (!err.status || err.status >= 500) console.error(err.stack);
   next(err);
 };
 

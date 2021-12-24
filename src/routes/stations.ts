@@ -1,4 +1,5 @@
 import express from "express";
+import { StationController } from "../controllers";
 import {
   asyncErrorCatcher,
   decodeRequest,
@@ -13,5 +14,7 @@ router.get(
   validatorErrorChecker,
   asyncErrorCatcher(async (req, res) => {})
 );
+
+router.get("/:id", StationController.getTimeTable);
 
 export default router;

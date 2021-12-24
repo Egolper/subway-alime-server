@@ -1,5 +1,5 @@
 import express from "express";
-import station from "./station";
+import stations from "./stations";
 
 const router = express.Router();
 
@@ -7,6 +7,6 @@ router.get("/", (req, res, next) => {
   res.json({ message: "welcome!" });
 });
 
-router.use("/station", station);
+router.use("/stations", stations);
 
 export default router;
