@@ -1,6 +1,5 @@
-import { TimeTableParams } from "@types";
+import { StationParams, TimeTableParams, TimeTableResponse } from "@types";
 import axios from "axios";
-import { generateError } from "../middlewares";
 import { StationModel } from "../models";
 
 export const findAll = () => {
@@ -19,14 +18,26 @@ export const deleteStation = (name: string) => {
   return StationModel.deleteOne({ name });
 };
 
+/* ----------------  ---------------- */
+
+export const getStations = async (params: StationParams) => {
+  const { data } = await axios({
+    url: "http://openapi.tago.go.kr/openapi/service/SubwayInfoService/getKwrdFndSubwaySttnList",
+    params: {
+      serviceKey: process.env.DATA_API_KEY,
+      ...params,
+    },
+  });
+  return data;
+};
+
 export const getTimeTable = async (params: TimeTableParams) => {
   const { data } = await axios({
     url: "http://openapi.tago.go.kr/openapi/service/SubwayInfoService/getSubwaySttnAcctoSchdulList",
     params: {
-      serviceKey: process.env.TIMETABLE_API_KEY,
+      serviceKey: process.env.DATA_API_KEY,
       ...params,
     },
   });
-  console.log(data);
-  return data;
+  return data as TimeTableResponse;
 };

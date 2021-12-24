@@ -5,6 +5,16 @@ import { StationService } from "../services";
 
 /* ----------------  ---------------- */
 
+export const getStations: RequestHandler[] = [
+  validatorErrorChecker,
+  asyncErrorCatcher(async (req, res) => {
+    const data = await StationService.getStations(req.query);
+    res.send(data);
+  }),
+];
+
+/* ----------------  ---------------- */
+
 const dailyTypeCodeList = ["01", "02", "03"] as const;
 /**
  * 요일구분코드 (01:평일, 02:토요일, 03:일요일)

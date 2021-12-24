@@ -6,4 +6,14 @@ declare module "@types" {
     전철역명: string;
     외부코드: string;
   }
+
+  interface StationParams extends DataAPISearchParams {
+    subwayStationName?: string;
+  }
+
+  type StationResponse = DataAPIResponse<{
+    subwayRouteName: string; // "서울 4호선";
+    subwayStationId: string; // "MTRS14426";
+    subwayStationName: string; // "서울역";
+  }>;
 }
