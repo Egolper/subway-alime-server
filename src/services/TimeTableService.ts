@@ -5,6 +5,7 @@ import {
   TimeTableResponse,
 } from "@types";
 import axios from "axios";
+import { dailyTypeMapper, upDownTypeMapper } from "../utils";
 
 export const getStationTimeTable = async (params: TimeTableParams) => {
   const { data } = await axios({
@@ -16,6 +17,8 @@ export const getStationTimeTable = async (params: TimeTableParams) => {
   });
   return data as DataAPIResponse<TimeTableResponse>;
 };
+
+/* ----------------  ---------------- */
 
 const transerTime = (time: string | number) => {
   const target = time + "";
@@ -35,16 +38,4 @@ export const transferTimeTable = (timeTable: TimeTableResponse): I시간표 => {
     종점역_ID: timeTable.endSubwayStationId,
     종점역_이름: timeTable.endSubwayStationNm,
   };
-};
-
-const upDownTypeMapper = {
-  U: "상행",
-  D: "하행",
-};
-
-//* 요일구분코드 (01:평일, 02:토요일, 03:일요일)
-const dailyTypeMapper = {
-  "01": "평일",
-  "02": "토요일",
-  "03": "일요일",
 };

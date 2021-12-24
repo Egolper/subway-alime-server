@@ -1,7 +1,4 @@
-import {
-  dailyTypeCodeType,
-  upDownTypeCodeType,
-} from "../controllers/StationController";
+import { dailyTypeCodeType, upDownTypeCodeType } from "../utils";
 
 declare module "@types" {
   interface I시간표 {
