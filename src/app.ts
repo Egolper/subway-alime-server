@@ -4,6 +4,10 @@ import express from "express";
 import router from "./routes";
 import { loadDB } from "./loaders";
 import { errorResponser, errorLogger } from "./middlewares";
+import {
+  load_heroku_awaker,
+  load_공공데이터_수집기,
+} from "./loaders/loadSchedule";
 
 const app = express();
 const PORT = process.env.PORT || 1803;
@@ -25,4 +29,7 @@ app.listen(PORT, async () => {
   ┃     http://localhost:${PORT}/api       ┃
   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
   `);
+
+  load_heroku_awaker();
+  load_공공데이터_수집기();
 });

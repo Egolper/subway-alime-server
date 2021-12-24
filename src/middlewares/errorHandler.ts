@@ -27,7 +27,7 @@ export const generateError = ({
   status = 500,
 }: {
   message: string;
-  status: StatusType;
+  status?: StatusType;
 }) => {
   const error: ErrorWithStatus = new Error(
     message || DEFAULT_HTTP_STATUS_MESSAGES[status]
