@@ -1,4 +1,4 @@
-import { StationParams, TimeTableParams, TimeTableResponse } from "@types";
+import { StationParams } from "@types";
 import axios from "axios";
 import { StationModel } from "../models";
 
@@ -31,13 +31,44 @@ export const getStations = async (params: StationParams) => {
   return data;
 };
 
-export const getTimeTable = async (params: TimeTableParams) => {
-  const { data } = await axios({
-    url: "http://openapi.tago.go.kr/openapi/service/SubwayInfoService/getSubwaySttnAcctoSchdulList",
-    params: {
-      serviceKey: process.env.DATA_API_KEY,
-      ...params,
-    },
-  });
-  return data as TimeTableResponse;
+/* ----------------  ---------------- */
+
+/**
+ *  공공데이터API의 호선명과 호환
+ *
+ *  서해, 김포골드 없음...
+ */
+export const SubwayRouteMapper = {
+  부산김해경전철: "부산김해경전철",
+  "부산 1호선": "부산 1",
+  "부산 2호선": "부산 2",
+  "부산 3호선": "부산 3",
+  "부산 4호선": "부산 4",
+  "대구 1호선": "대구 1",
+  "대구 2호선": "대구 2",
+  "대구 3호선": "대구 3",
+  "대전 1호선": "대전 1",
+  "광주 1호선": "광주 1",
+  인천1호선: "인천 1",
+  인천2호선: "인천 2",
+  수인분당: "수인분당",
+  경춘: "경춘",
+  경의중앙: "경의중앙",
+  경강: "경강",
+  동해: "동해",
+  우이신설: "우이신설",
+  의정부: "의정부",
+  에버라인: "에버라인",
+  신분당: "신분당",
+  공항철도: "공항철도",
+  자기부상: "자기부상",
+  "서울 1호선": "1",
+  "서울 2호선": "2",
+  "서울 3호선": "3",
+  "서울 4호선": "4",
+  "서울 5호선": "5",
+  "서울 6호선": "6",
+  "서울 7호선": "7",
+  "서울 8호선": "8",
+  "서울 9호선": "9",
 };

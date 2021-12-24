@@ -1,7 +1,7 @@
 import { RequestHandler } from "express";
 import { param, query } from "express-validator";
 import { asyncErrorCatcher, validatorErrorChecker } from "../middlewares";
-import { StationService } from "../services";
+import { StationService, TimeTableService } from "../services";
 
 /* ----------------  ---------------- */
 
@@ -33,7 +33,7 @@ export const getTimeTable: RequestHandler[] = [
   query("upDownTypeCode").isIn(upDownTypeCodeList),
   validatorErrorChecker,
   asyncErrorCatcher(async (req, res) => {
-    const data = await StationService.getTimeTable({
+    const data = await TimeTableService.getStationTimeTable({
       subwayStationId: req.params.id,
       dailyTypeCode: req.query.dailyTypeCode as dailyTypeCodeType,
       upDownTypeCode: req.query.upDownTypeCode as upDownTypeCodeType,
