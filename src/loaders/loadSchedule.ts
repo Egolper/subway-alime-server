@@ -5,7 +5,7 @@ import { StationService } from "../services";
 export const load_heroku_awaker = () => {
   schedule.scheduleJob("*/20 * * * *", () => {
     console.log("$$ awake heroku in every 20 min");
-    axios.get(`https://quiet-time-server.herokuapp.com/api`);
+    axios.get(`https://subway-alime.herokuapp.com/api`);
   });
 };
 
