@@ -23,10 +23,11 @@ export const getStationTimeTable = async (params: TimeTableParams) => {
 const transerTime = (time: string | number) => {
   const target = time + "";
   if (target.length < 6) return "00:00:00";
-  return `${target.substring(0, 2)}:${target.substring(
-    2,
-    4
-  )}:${target.substring(4, 6)}`;
+  const HH = target.substring(0, 2);
+  const MM = target.substring(0, 2);
+  const SS = target.substring(0, 2);
+
+  return `${HH}:${MM}:${SS}`;
 };
 
 export const transferTimeTable = (timeTable: TimeTableResponse): I시간표 => {

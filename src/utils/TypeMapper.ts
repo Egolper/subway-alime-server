@@ -1,10 +1,12 @@
 /* ----------------  ---------------- */
 
 export const upDownTypeCodeList = ["U", "D"] as const;
+export type UpDownTypeCodeType = typeof upDownTypeCodeList[number];
 
-export type upDownTypeCodeType = typeof upDownTypeCodeList[number];
+export const 상하행구분_리스트 = ["상행", "하행"] as const;
+export type 상하행구분_타입 = typeof 상하행구분_리스트[number];
 
-export const upDownTypeMapper = {
+export const upDownTypeMapper: Record<UpDownTypeCodeType, 상하행구분_타입> = {
   U: "상행",
   D: "하행",
 };
@@ -12,10 +14,12 @@ export const upDownTypeMapper = {
 /* ----------------  ---------------- */
 
 export const dailyTypeCodeList = ["01", "02", "03"] as const;
+export type DailyTypeCodeType = typeof dailyTypeCodeList[number];
 
-export type dailyTypeCodeType = typeof dailyTypeCodeList[number];
+export const 요일구분_리스트 = ["평일", "토요일", "일요일"] as const;
+export type 요일구분_타입 = typeof 요일구분_리스트[number];
 
-export const dailyTypeMapper = {
+export const dailyTypeMapper: Record<DailyTypeCodeType, 요일구분_타입> = {
   "01": "평일",
   "02": "토요일",
   "03": "일요일",
@@ -28,7 +32,9 @@ export const dailyTypeMapper = {
  *
  *  서해, 김포골드 없음...
  */
-export const subwayRouteMapper = {
+export const subwayRouteMapper: {
+  [key: string]: string;
+} = {
   부산김해경전철: "부산김해경전철",
   "부산 1호선": "부산 1",
   "부산 2호선": "부산 2",

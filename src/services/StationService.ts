@@ -9,7 +9,11 @@ import {
 import axios from "axios";
 import { TimeTableService } from ".";
 import { StationModel } from "../models";
-import { getTodayDailyType, upDownTypeCodeList } from "../utils";
+import {
+  getTodayDailyType,
+  subwayRouteMapper,
+  upDownTypeCodeList,
+} from "../utils";
 import { transferTimeTable } from "./TimeTableService";
 
 export const findAll = () => {
@@ -43,11 +47,15 @@ export const getStations = async (params: StationParams) => {
 
 /* ----------------  ---------------- */
 
-export const collect호선 = async (subwayStationId: string): Promise<I호선> => {
-  let 호선이름 = "";
+export const collect호선 = async ({
+  subwayStationId,
+  subwayRouteName,
+}: StationResponse): Promise<I호선> => {
+  let 호선이름 = subwayRouteMapper[subwayRouteName];
   let 시간표_리스트: I시간표[] = [];
 
   const dailyTypeCode = getTodayDailyType();
+
   for (const upDownTypeCode of upDownTypeCodeList) {
     const { response } = await TimeTableService.getStationTimeTable({
       subwayStationId,
@@ -60,8 +68,6 @@ export const collect호선 = async (subwayStationId: string): Promise<I호선> =
     }
 
     const timeTableList = response.body.items.item;
-    호선이름 = timeTableList[0].subwayStationNm;
-
     시간표_리스트 = [...시간표_리스트, ...timeTableList.map(transferTimeTable)];
   }
 
@@ -70,15 +76,15 @@ export const collect호선 = async (subwayStationId: string): Promise<I호선> =
 
 export const collect전철역 = async ({
   역이름,
-  전철ID_리스트,
+  stationList,
 }: {
   역이름: string;
-  전철ID_리스트: string[];
+  stationList: StationResponse[];
 }): Promise<I전철역> => {
   const 호선_리스트: I호선[] = [];
 
-  for (const 전철ID of 전철ID_리스트) {
-    const 호선 = await collect호선(전철ID);
+  for (const station of stationList) {
+    const 호선 = await collect호선(station);
     호선_리스트.push(호선);
   }
 
@@ -92,9 +98,10 @@ export const collect지하철공공데이터 = async () => {
   const stationList = response.body.items.item;
 
   console.log(`$$ 총 ${stationList.length}개의 역 데이터`);
+
   const 전철역_리스트 = (
     await Promise.all(
-      transfer전철ID리스트(stationList).map(async (v) => {
+      transferStationList(stationList).map(async (v) => {
         try {
           const 전철역 = await collect전철역(v);
           console.log(`$$ ${v.역이름} 역 완료`);
@@ -115,16 +122,19 @@ export const collect지하철공공데이터 = async () => {
 
 /* ----------------  ---------------- */
 
-export const transfer전철ID리스트 = (stationList: StationResponse[]) => {
-  const db: { [key: string]: string[] } = {};
+export const transferStationList = (stationList: StationResponse[]) => {
+  const db: {
+    [key: string]: StationResponse[];
+  } = {};
 
-  stationList.forEach(({ subwayStationId, subwayStationName }) => {
+  stationList.forEach((station) => {
+    const { subwayStationName } = station;
     if (!db[subwayStationName]) db[subwayStationName] = [];
-    db[subwayStationName].push(subwayStationId);
+    db[subwayStationName].push(station);
   });
 
   return Object.keys(db).map((v) => ({
     역이름: v,
-    전철ID_리스트: db[v],
+    stationList: db[v],
   }));
 };

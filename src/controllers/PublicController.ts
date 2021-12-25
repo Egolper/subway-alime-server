@@ -4,9 +4,9 @@ import { asyncErrorCatcher, validatorErrorChecker } from "../middlewares";
 import { StationService, TimeTableService } from "../services";
 import {
   dailyTypeCodeList,
-  dailyTypeCodeType,
+  DailyTypeCodeType,
   upDownTypeCodeList,
-  upDownTypeCodeType,
+  UpDownTypeCodeType,
 } from "../utils";
 
 /* ----------------  ---------------- */
@@ -29,8 +29,8 @@ export const getTimeTable: RequestHandler[] = [
   asyncErrorCatcher(async (req, res) => {
     const data = await TimeTableService.getStationTimeTable({
       subwayStationId: req.params.id,
-      dailyTypeCode: req.query.dailyTypeCode as dailyTypeCodeType,
-      upDownTypeCode: req.query.upDownTypeCode as upDownTypeCodeType,
+      dailyTypeCode: req.query.dailyTypeCode as DailyTypeCodeType,
+      upDownTypeCode: req.query.upDownTypeCode as UpDownTypeCodeType,
       ...req.query,
     });
     res.send(data);
