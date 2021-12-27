@@ -30,6 +30,6 @@ app.listen(PORT, async () => {
   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
   `);
 
-  load_heroku_awaker();
+  // load_heroku_awaker();
   // load_공공데이터_수집기();
 });

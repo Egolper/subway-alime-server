@@ -14,11 +14,11 @@ export const load_heroku_awaker = () => {
 };
 
 export const load_공공데이터_수집기 = async () => {
-  if (!runSchedule) return;
+  // if (!runSchedule) return;
 
   const rule = new schedule.RecurrenceRule();
-  rule.hour = 5;
-  rule.minute = 0;
+  rule.hour = 22;
+  rule.minute = 30;
   rule.dayOfWeek = [0, new schedule.Range(0, 6)];
   rule.tz = "Asia/Seoul";
 

@@ -64,7 +64,7 @@ export const collect호선 = async ({
     });
     if (!response?.body?.items) {
       console.log(response, subwayStationId, dailyTypeCode, upDownTypeCode);
-      continue;
+      break;
     }
 
     const timeTableList = response.body.items.item;
@@ -99,19 +99,17 @@ export const collect지하철공공데이터 = async () => {
 
   console.log(`$$ 총 ${stationList.length}개의 역 데이터`);
 
-  const 전철역_리스트 = (
-    await Promise.all(
-      transferStationList(stationList).map(async (v) => {
-        try {
-          const 전철역 = await collect전철역(v);
-          console.log(`$$ ${v.역이름} 역 완료`);
-          return 전철역;
-        } catch (e) {
-          console.log(e);
-        }
-      })
-    )
-  ).filter((v) => !!v);
+  let 전철역_리스트: I전철역[] = [];
+
+  transferStationList(stationList).map(async (v) => {
+    try {
+      const 전철역 = await collect전철역(v);
+      console.log(`$$ ${v.역이름} 역 완료`);
+      전철역_리스트.push(전철역);
+    } catch (e) {
+      console.log(e);
+    }
+  });
 
   console.log(`$$ 총 ${전철역_리스트.length}개의 역 데이터 수집완료`);
 
