@@ -63,8 +63,7 @@ export const collect호선 = async ({
       upDownTypeCode,
     });
     if (!response?.body?.items) {
-      console.log(response, subwayStationId, dailyTypeCode, upDownTypeCode);
-      break;
+      throw new Error(response.header.resultMsg);
     }
 
     const timeTableList = response.body.items.item;
@@ -99,17 +98,17 @@ export const collect지하철공공데이터 = async () => {
 
   console.log(`$$ 총 ${stationList.length}개의 역 데이터`);
 
-  let 전철역_리스트: I전철역[] = [];
+  const 전철역_리스트: I전철역[] = [];
 
-  transferStationList(stationList).map(async (v) => {
-    try {
-      const 전철역 = await collect전철역(v);
-      console.log(`$$ ${v.역이름} 역 완료`);
+  try {
+    for (const station of transferStationList(stationList)) {
+      const 전철역 = await collect전철역(station);
+      console.log(`$$ ${전철역.역이름} 역 완료`);
       전철역_리스트.push(전철역);
-    } catch (e) {
-      console.log(e);
     }
-  });
+  } catch (e) {
+    console.log(e);
+  }
 
   console.log(`$$ 총 ${전철역_리스트.length}개의 역 데이터 수집완료`);
 
@@ -131,8 +130,8 @@ export const transferStationList = (stationList: StationResponse[]) => {
     db[subwayStationName].push(station);
   });
 
-  return Object.keys(db).map((v) => ({
-    역이름: v,
-    stationList: db[v],
+  return Object.keys(db).map((key) => ({
+    역이름: key,
+    stationList: db[key],
   }));
 };
