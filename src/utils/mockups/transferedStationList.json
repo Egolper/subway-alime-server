@@ -1,0 +1,9099 @@
+{
+  "transferedStationList": [
+    {
+      "역이름": "서울역",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A01",
+          "subwayStationName": "서울역"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4P313",
+          "subwayStationName": "서울역"
+        },
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11133",
+          "subwayStationName": "서울역"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14426",
+          "subwayStationName": "서울역"
+        }
+      ]
+    },
+    {
+      "역이름": "공덕",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A02",
+          "subwayStationName": "공덕"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K312",
+          "subwayStationName": "공덕"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55529",
+          "subwayStationName": "공덕"
+        }
+      ]
+    },
+    {
+      "역이름": "홍대입구",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A03",
+          "subwayStationName": "홍대입구"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K314",
+          "subwayStationName": "홍대입구"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12239",
+          "subwayStationName": "홍대입구"
+        }
+      ]
+    },
+    {
+      "역이름": "디지털미디어시티",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A04",
+          "subwayStationName": "디지털미디어시티"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K316",
+          "subwayStationName": "디지털미디어시티"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56618",
+          "subwayStationName": "디지털미디어시티"
+        }
+      ]
+    },
+    {
+      "역이름": "김포공항",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A05",
+          "subwayStationName": "김포공항"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55512",
+          "subwayStationName": "김포공항"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99902",
+          "subwayStationName": "김포공항"
+        }
+      ]
+    },
+    {
+      "역이름": "계양",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A06",
+          "subwayStationName": "계양"
+        },
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13110",
+          "subwayStationName": "계양"
+        }
+      ]
+    },
+    {
+      "역이름": "검암",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A07",
+          "subwayStationName": "검암"
+        },
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23207",
+          "subwayStationName": "검암"
+        }
+      ]
+    },
+    {
+      "역이름": "청라국제도시",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A071",
+          "subwayStationName": "청라국제도시"
+        }
+      ]
+    },
+    {
+      "역이름": "영종",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A072",
+          "subwayStationName": "영종"
+        }
+      ]
+    },
+    {
+      "역이름": "운서",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A08",
+          "subwayStationName": "운서"
+        }
+      ]
+    },
+    {
+      "역이름": "공항화물청사",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A09",
+          "subwayStationName": "공항화물청사"
+        }
+      ]
+    },
+    {
+      "역이름": "인천공항1터미널",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A10",
+          "subwayStationName": "인천공항1터미널"
+        }
+      ]
+    },
+    {
+      "역이름": "인천공항2터미널",
+      "stationList": [
+        {
+          "subwayRouteName": "공항",
+          "subwayStationId": "MTRARA1A11",
+          "subwayStationName": "인천공항2터미널"
+        }
+      ]
+    },
+    {
+      "역이름": "용유",
+      "stationList": [
+        {
+          "subwayRouteName": "자기부상",
+          "subwayStationId": "MTRARM1M06",
+          "subwayStationName": "용유"
+        }
+      ]
+    },
+    {
+      "역이름": "워터파크",
+      "stationList": [
+        {
+          "subwayRouteName": "자기부상",
+          "subwayStationId": "MTRARM1M05",
+          "subwayStationName": "워터파크"
+        }
+      ]
+    },
+    {
+      "역이름": "파라다이스시티",
+      "stationList": [
+        {
+          "subwayRouteName": "자기부상",
+          "subwayStationId": "MTRARM1M04",
+          "subwayStationName": "파라다이스시티"
+        }
+      ]
+    },
+    {
+      "역이름": "합동청사",
+      "stationList": [
+        {
+          "subwayRouteName": "자기부상",
+          "subwayStationId": "MTRARM1M03",
+          "subwayStationName": "합동청사"
+        }
+      ]
+    },
+    {
+      "역이름": "장기주차장",
+      "stationList": [
+        {
+          "subwayRouteName": "자기부상",
+          "subwayStationId": "MTRARM1M02",
+          "subwayStationName": "장기주차장"
+        }
+      ]
+    },
+    {
+      "역이름": "대사",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB19",
+          "subwayStationName": "대사"
+        }
+      ]
+    },
+    {
+      "역이름": "평강",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB18",
+          "subwayStationName": "평강"
+        }
+      ]
+    },
+    {
+      "역이름": "대저",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB17",
+          "subwayStationName": "대저"
+        },
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3317",
+          "subwayStationName": "대저"
+        }
+      ]
+    },
+    {
+      "역이름": "등구",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB16",
+          "subwayStationName": "등구"
+        }
+      ]
+    },
+    {
+      "역이름": "덕두",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB15",
+          "subwayStationName": "덕두"
+        }
+      ]
+    },
+    {
+      "역이름": "공항",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB14",
+          "subwayStationName": "공항"
+        },
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1115",
+          "subwayStationName": "공항"
+        }
+      ]
+    },
+    {
+      "역이름": "서부산유통지구(금호마을)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB13",
+          "subwayStationName": "서부산유통지구(금호마을)"
+        }
+      ]
+    },
+    {
+      "역이름": "가야대(삼계)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB121",
+          "subwayStationName": "가야대(삼계)"
+        }
+      ]
+    },
+    {
+      "역이름": "장신대(화정)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB120",
+          "subwayStationName": "장신대(화정)"
+        }
+      ]
+    },
+    {
+      "역이름": "괘법르네시떼(강변공원)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB12",
+          "subwayStationName": "괘법르네시떼(강변공원)"
+        }
+      ]
+    },
+    {
+      "역이름": "연지공원",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB119",
+          "subwayStationName": "연지공원"
+        }
+      ]
+    },
+    {
+      "역이름": "박물관",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB118",
+          "subwayStationName": "박물관"
+        }
+      ]
+    },
+    {
+      "역이름": "사상(서부터미널)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB11",
+          "subwayStationName": "사상(서부터미널)"
+        },
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2227",
+          "subwayStationName": "사상(서부터미널)"
+        }
+      ]
+    },
+    {
+      "역이름": "불암",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB110",
+          "subwayStationName": "불암"
+        }
+      ]
+    },
+    {
+      "역이름": "지내",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB111",
+          "subwayStationName": "지내"
+        }
+      ]
+    },
+    {
+      "역이름": "김해대학(안동)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB112",
+          "subwayStationName": "김해대학(안동)"
+        }
+      ]
+    },
+    {
+      "역이름": "인제대(활천)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB113",
+          "subwayStationName": "인제대(활천)"
+        }
+      ]
+    },
+    {
+      "역이름": "김해시청",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB114",
+          "subwayStationName": "김해시청"
+        }
+      ]
+    },
+    {
+      "역이름": "부원",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB115",
+          "subwayStationName": "부원"
+        }
+      ]
+    },
+    {
+      "역이름": "봉황(김해여객터미널)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB116",
+          "subwayStationName": "봉황(김해여객터미널)"
+        }
+      ]
+    },
+    {
+      "역이름": "수로왕릉(김해보건소)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산김해경전철",
+          "subwayStationId": "MTRBGB117",
+          "subwayStationName": "수로왕릉(김해보건소)"
+        }
+      ]
+    },
+    {
+      "역이름": "양정",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1121",
+          "subwayStationName": "양정"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K125",
+          "subwayStationName": "양정"
+        }
+      ]
+    },
+    {
+      "역이름": "시청(연제)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1122",
+          "subwayStationName": "시청(연제)"
+        }
+      ]
+    },
+    {
+      "역이름": "연산",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1123",
+          "subwayStationName": "연산"
+        },
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3305",
+          "subwayStationName": "연산"
+        }
+      ]
+    },
+    {
+      "역이름": "교대",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1124",
+          "subwayStationName": "교대"
+        },
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1128",
+          "subwayStationName": "교대"
+        },
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K113",
+          "subwayStationName": "교대"
+        }
+      ]
+    },
+    {
+      "역이름": "동래",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1125",
+          "subwayStationName": "동래"
+        },
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4402",
+          "subwayStationName": "동래"
+        },
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K114",
+          "subwayStationName": "동래"
+        }
+      ]
+    },
+    {
+      "역이름": "명륜",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1126",
+          "subwayStationName": "명륜"
+        }
+      ]
+    },
+    {
+      "역이름": "온천장",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1127",
+          "subwayStationName": "온천장"
+        }
+      ]
+    },
+    {
+      "역이름": "부산대",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1128",
+          "subwayStationName": "부산대"
+        }
+      ]
+    },
+    {
+      "역이름": "장전(부산가톨릭대학교)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1129",
+          "subwayStationName": "장전(부산가톨릭대학교)"
+        }
+      ]
+    },
+    {
+      "역이름": "구서",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1130",
+          "subwayStationName": "구서"
+        }
+      ]
+    },
+    {
+      "역이름": "두실",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1131",
+          "subwayStationName": "두실"
+        }
+      ]
+    },
+    {
+      "역이름": "남산(부산외국대학교)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1132",
+          "subwayStationName": "남산(부산외국대학교)"
+        }
+      ]
+    },
+    {
+      "역이름": "범어사",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1133",
+          "subwayStationName": "범어사"
+        }
+      ]
+    },
+    {
+      "역이름": "노포(종합버스터미널)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1134",
+          "subwayStationName": "노포(종합버스터미널)"
+        }
+      ]
+    },
+    {
+      "역이름": "다대포해수욕장",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS195",
+          "subwayStationName": "다대포해수욕장"
+        }
+      ]
+    },
+    {
+      "역이름": "다대포항",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS196",
+          "subwayStationName": "다대포항"
+        }
+      ]
+    },
+    {
+      "역이름": "낫개",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS197",
+          "subwayStationName": "낫개"
+        }
+      ]
+    },
+    {
+      "역이름": "신장림",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS198",
+          "subwayStationName": "신장림"
+        }
+      ]
+    },
+    {
+      "역이름": "장림",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS199",
+          "subwayStationName": "장림"
+        }
+      ]
+    },
+    {
+      "역이름": "부전(부산시민공원·송상현광장)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1120",
+          "subwayStationName": "부전(부산시민공원·송상현광장)"
+        }
+      ]
+    },
+    {
+      "역이름": "서면",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1119",
+          "subwayStationName": "서면"
+        },
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2219",
+          "subwayStationName": "서면"
+        }
+      ]
+    },
+    {
+      "역이름": "동매",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1100",
+          "subwayStationName": "동매"
+        }
+      ]
+    },
+    {
+      "역이름": "신평",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1101",
+          "subwayStationName": "신평"
+        }
+      ]
+    },
+    {
+      "역이름": "하단(부산본병원)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1102",
+          "subwayStationName": "하단(부산본병원)"
+        }
+      ]
+    },
+    {
+      "역이름": "당리(사하구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1103",
+          "subwayStationName": "당리(사하구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "사하",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1104",
+          "subwayStationName": "사하"
+        }
+      ]
+    },
+    {
+      "역이름": "괴정",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1105",
+          "subwayStationName": "괴정"
+        }
+      ]
+    },
+    {
+      "역이름": "대티(동주대학)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1106",
+          "subwayStationName": "대티(동주대학)"
+        }
+      ]
+    },
+    {
+      "역이름": "서대신",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1107",
+          "subwayStationName": "서대신"
+        }
+      ]
+    },
+    {
+      "역이름": "동대신",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1108",
+          "subwayStationName": "동대신"
+        }
+      ]
+    },
+    {
+      "역이름": "토성",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1109",
+          "subwayStationName": "토성"
+        }
+      ]
+    },
+    {
+      "역이름": "자갈치",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1110",
+          "subwayStationName": "자갈치"
+        }
+      ]
+    },
+    {
+      "역이름": "남포",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1111",
+          "subwayStationName": "남포"
+        }
+      ]
+    },
+    {
+      "역이름": "중앙",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1112",
+          "subwayStationName": "중앙"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4450",
+          "subwayStationName": "중앙"
+        }
+      ]
+    },
+    {
+      "역이름": "부산",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1113",
+          "subwayStationName": "부산"
+        }
+      ]
+    },
+    {
+      "역이름": "초량",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1114",
+          "subwayStationName": "초량"
+        }
+      ]
+    },
+    {
+      "역이름": "부산진",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1115",
+          "subwayStationName": "부산진"
+        }
+      ]
+    },
+    {
+      "역이름": "좌천",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1116",
+          "subwayStationName": "좌천"
+        }
+      ]
+    },
+    {
+      "역이름": "범일",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1117",
+          "subwayStationName": "범일"
+        }
+      ]
+    },
+    {
+      "역이름": "범내골",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 1호선",
+          "subwayStationId": "MTRBS1118",
+          "subwayStationName": "범내골"
+        }
+      ]
+    },
+    {
+      "역이름": "구명",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2232",
+          "subwayStationName": "구명"
+        }
+      ]
+    },
+    {
+      "역이름": "구남",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2231",
+          "subwayStationName": "구남"
+        }
+      ]
+    },
+    {
+      "역이름": "모라",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2230",
+          "subwayStationName": "모라"
+        }
+      ]
+    },
+    {
+      "역이름": "모덕",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2229",
+          "subwayStationName": "모덕"
+        }
+      ]
+    },
+    {
+      "역이름": "덕포",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2228",
+          "subwayStationName": "덕포"
+        }
+      ]
+    },
+    {
+      "역이름": "감전(사상구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2226",
+          "subwayStationName": "감전(사상구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "주례",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2225",
+          "subwayStationName": "주례"
+        }
+      ]
+    },
+    {
+      "역이름": "냉정",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2224",
+          "subwayStationName": "냉정"
+        }
+      ]
+    },
+    {
+      "역이름": "덕천(부산과기대)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2233",
+          "subwayStationName": "덕천(부산과기대)"
+        },
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3313",
+          "subwayStationName": "덕천(부산과기대)"
+        }
+      ]
+    },
+    {
+      "역이름": "수정(방송통신대)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2234",
+          "subwayStationName": "수정(방송통신대)"
+        }
+      ]
+    },
+    {
+      "역이름": "화명",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2235",
+          "subwayStationName": "화명"
+        }
+      ]
+    },
+    {
+      "역이름": "율리",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2236",
+          "subwayStationName": "율리"
+        }
+      ]
+    },
+    {
+      "역이름": "동원",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2237",
+          "subwayStationName": "동원"
+        }
+      ]
+    },
+    {
+      "역이름": "금곡",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2238",
+          "subwayStationName": "금곡"
+        },
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P127",
+          "subwayStationName": "금곡"
+        }
+      ]
+    },
+    {
+      "역이름": "호포",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2239",
+          "subwayStationName": "호포"
+        }
+      ]
+    },
+    {
+      "역이름": "증산",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2240",
+          "subwayStationName": "증산"
+        }
+      ]
+    },
+    {
+      "역이름": "부산대양산캠퍼스",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2241",
+          "subwayStationName": "부산대양산캠퍼스"
+        }
+      ]
+    },
+    {
+      "역이름": "남양산(범어)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2242",
+          "subwayStationName": "남양산(범어)"
+        }
+      ]
+    },
+    {
+      "역이름": "양산(시청·동원과학기술대학교)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2243",
+          "subwayStationName": "양산(시청·동원과학기술대학교)"
+        }
+      ]
+    },
+    {
+      "역이름": "개금",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2223",
+          "subwayStationName": "개금"
+        }
+      ]
+    },
+    {
+      "역이름": "동의대",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2222",
+          "subwayStationName": "동의대"
+        }
+      ]
+    },
+    {
+      "역이름": "가야",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2221",
+          "subwayStationName": "가야"
+        }
+      ]
+    },
+    {
+      "역이름": "장산(해운대백병원)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2201",
+          "subwayStationName": "장산(해운대백병원)"
+        }
+      ]
+    },
+    {
+      "역이름": "중동",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2202",
+          "subwayStationName": "중동"
+        },
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1149",
+          "subwayStationName": "중동"
+        }
+      ]
+    },
+    {
+      "역이름": "해운대",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2203",
+          "subwayStationName": "해운대"
+        }
+      ]
+    },
+    {
+      "역이름": "동백",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2204",
+          "subwayStationName": "동백"
+        },
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y114",
+          "subwayStationName": "동백"
+        }
+      ]
+    },
+    {
+      "역이름": "벡스코(시립미술관)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2205",
+          "subwayStationName": "벡스코(시립미술관)"
+        }
+      ]
+    },
+    {
+      "역이름": "센텀시티(BEXCO·신세계)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2206",
+          "subwayStationName": "센텀시티(BEXCO·신세계)"
+        }
+      ]
+    },
+    {
+      "역이름": "민락",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2207",
+          "subwayStationName": "민락"
+        }
+      ]
+    },
+    {
+      "역이름": "수영",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2208",
+          "subwayStationName": "수영"
+        },
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3301",
+          "subwayStationName": "수영"
+        }
+      ]
+    },
+    {
+      "역이름": "광안",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2209",
+          "subwayStationName": "광안"
+        }
+      ]
+    },
+    {
+      "역이름": "금련산",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2210",
+          "subwayStationName": "금련산"
+        }
+      ]
+    },
+    {
+      "역이름": "남천(KBS·수영구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2211",
+          "subwayStationName": "남천(KBS·수영구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "부암(온종합병원)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2220",
+          "subwayStationName": "부암(온종합병원)"
+        }
+      ]
+    },
+    {
+      "역이름": "전포",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2218",
+          "subwayStationName": "전포"
+        }
+      ]
+    },
+    {
+      "역이름": "국제금융센터·부산은행",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2217",
+          "subwayStationName": "국제금융센터·부산은행"
+        }
+      ]
+    },
+    {
+      "역이름": "문현",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2216",
+          "subwayStationName": "문현"
+        }
+      ]
+    },
+    {
+      "역이름": "지게골",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2215",
+          "subwayStationName": "지게골"
+        }
+      ]
+    },
+    {
+      "역이름": "못골(남구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2214",
+          "subwayStationName": "못골(남구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "대연(고려병원)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2213",
+          "subwayStationName": "대연(고려병원)"
+        }
+      ]
+    },
+    {
+      "역이름": "경성대·부경대(동명대학교)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 2호선",
+          "subwayStationId": "MTRBS2212",
+          "subwayStationName": "경성대·부경대(동명대학교)"
+        }
+      ]
+    },
+    {
+      "역이름": "체육공원",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3316",
+          "subwayStationName": "체육공원"
+        }
+      ]
+    },
+    {
+      "역이름": "강서구청",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3315",
+          "subwayStationName": "강서구청"
+        }
+      ]
+    },
+    {
+      "역이름": "구포",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3314",
+          "subwayStationName": "구포"
+        }
+      ]
+    },
+    {
+      "역이름": "숙등(부민병원)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3312",
+          "subwayStationName": "숙등(부민병원)"
+        }
+      ]
+    },
+    {
+      "역이름": "남산정(부산폴리텍대학)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3311",
+          "subwayStationName": "남산정(부산폴리텍대학)"
+        }
+      ]
+    },
+    {
+      "역이름": "만덕",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3310",
+          "subwayStationName": "만덕"
+        }
+      ]
+    },
+    {
+      "역이름": "미남",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3309",
+          "subwayStationName": "미남"
+        },
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4401",
+          "subwayStationName": "미남"
+        }
+      ]
+    },
+    {
+      "역이름": "사직",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3308",
+          "subwayStationName": "사직"
+        }
+      ]
+    },
+    {
+      "역이름": "종합운동장",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3307",
+          "subwayStationName": "종합운동장"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12218",
+          "subwayStationName": "종합운동장"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99930",
+          "subwayStationName": "종합운동장"
+        }
+      ]
+    },
+    {
+      "역이름": "거제(법원·검찰청)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3306",
+          "subwayStationName": "거제(법원·검찰청)"
+        },
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K112",
+          "subwayStationName": "거제(법원·검찰청)"
+        }
+      ]
+    },
+    {
+      "역이름": "물만골",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3304",
+          "subwayStationName": "물만골"
+        }
+      ]
+    },
+    {
+      "역이름": "배산",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3303",
+          "subwayStationName": "배산"
+        }
+      ]
+    },
+    {
+      "역이름": "망미(병무청)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 3호선",
+          "subwayStationId": "MTRBS3302",
+          "subwayStationName": "망미(병무청)"
+        }
+      ]
+    },
+    {
+      "역이름": "안평(고촌주택단지)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4414",
+          "subwayStationName": "안평(고촌주택단지)"
+        }
+      ]
+    },
+    {
+      "역이름": "고촌",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4413",
+          "subwayStationName": "고촌"
+        }
+      ]
+    },
+    {
+      "역이름": "동부산대학(윗반송)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4412",
+          "subwayStationName": "동부산대학(윗반송)"
+        }
+      ]
+    },
+    {
+      "역이름": "영산대(아랫반송)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4411",
+          "subwayStationName": "영산대(아랫반송)"
+        }
+      ]
+    },
+    {
+      "역이름": "석대",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4410",
+          "subwayStationName": "석대"
+        }
+      ]
+    },
+    {
+      "역이름": "반여농산물시장",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4409",
+          "subwayStationName": "반여농산물시장"
+        }
+      ]
+    },
+    {
+      "역이름": "금사",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4408",
+          "subwayStationName": "금사"
+        }
+      ]
+    },
+    {
+      "역이름": "서동",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4407",
+          "subwayStationName": "서동"
+        }
+      ]
+    },
+    {
+      "역이름": "명장",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4406",
+          "subwayStationName": "명장"
+        }
+      ]
+    },
+    {
+      "역이름": "충렬사(안락)",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4405",
+          "subwayStationName": "충렬사(안락)"
+        }
+      ]
+    },
+    {
+      "역이름": "낙민",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4404",
+          "subwayStationName": "낙민"
+        }
+      ]
+    },
+    {
+      "역이름": "수안",
+      "stationList": [
+        {
+          "subwayRouteName": "부산 4호선",
+          "subwayStationId": "MTRBS4403",
+          "subwayStationName": "수안"
+        }
+      ]
+    },
+    {
+      "역이름": "대구역",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1132",
+          "subwayStationName": "대구역"
+        }
+      ]
+    },
+    {
+      "역이름": "칠성시장",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1133",
+          "subwayStationName": "칠성시장"
+        }
+      ]
+    },
+    {
+      "역이름": "신천(경북대입구)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1134",
+          "subwayStationName": "신천(경북대입구)"
+        }
+      ]
+    },
+    {
+      "역이름": "동대구역",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1135",
+          "subwayStationName": "동대구역"
+        }
+      ]
+    },
+    {
+      "역이름": "동구청(큰고개)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1136",
+          "subwayStationName": "동구청(큰고개)"
+        }
+      ]
+    },
+    {
+      "역이름": "아양교",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1137",
+          "subwayStationName": "아양교"
+        }
+      ]
+    },
+    {
+      "역이름": "동촌",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1138",
+          "subwayStationName": "동촌"
+        }
+      ]
+    },
+    {
+      "역이름": "해안",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1139",
+          "subwayStationName": "해안"
+        }
+      ]
+    },
+    {
+      "역이름": "방촌",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1140",
+          "subwayStationName": "방촌"
+        }
+      ]
+    },
+    {
+      "역이름": "용계",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1141",
+          "subwayStationName": "용계"
+        }
+      ]
+    },
+    {
+      "역이름": "율하",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1142",
+          "subwayStationName": "율하"
+        }
+      ]
+    },
+    {
+      "역이름": "신기",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1143",
+          "subwayStationName": "신기"
+        }
+      ]
+    },
+    {
+      "역이름": "반야월",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1144",
+          "subwayStationName": "반야월"
+        }
+      ]
+    },
+    {
+      "역이름": "각산",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1145",
+          "subwayStationName": "각산"
+        }
+      ]
+    },
+    {
+      "역이름": "안심(혁신도시·첨복단지)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1146",
+          "subwayStationName": "안심(혁신도시·첨복단지)"
+        }
+      ]
+    },
+    {
+      "역이름": "중앙로",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1131",
+          "subwayStationName": "중앙로"
+        },
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1105",
+          "subwayStationName": "중앙로"
+        }
+      ]
+    },
+    {
+      "역이름": "반월당",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1130",
+          "subwayStationName": "반월당"
+        },
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2230",
+          "subwayStationName": "반월당"
+        }
+      ]
+    },
+    {
+      "역이름": "설화명곡",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1115",
+          "subwayStationName": "설화명곡"
+        }
+      ]
+    },
+    {
+      "역이름": "화원",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1116",
+          "subwayStationName": "화원"
+        }
+      ]
+    },
+    {
+      "역이름": "대곡(정부대구청사)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1117",
+          "subwayStationName": "대곡(정부대구청사)"
+        }
+      ]
+    },
+    {
+      "역이름": "진천",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1118",
+          "subwayStationName": "진천"
+        }
+      ]
+    },
+    {
+      "역이름": "월배",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1119",
+          "subwayStationName": "월배"
+        }
+      ]
+    },
+    {
+      "역이름": "상인",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1120",
+          "subwayStationName": "상인"
+        }
+      ]
+    },
+    {
+      "역이름": "월촌",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1121",
+          "subwayStationName": "월촌"
+        }
+      ]
+    },
+    {
+      "역이름": "송현",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1122",
+          "subwayStationName": "송현"
+        }
+      ]
+    },
+    {
+      "역이름": "서부정류장(관문시장)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1123",
+          "subwayStationName": "서부정류장(관문시장)"
+        }
+      ]
+    },
+    {
+      "역이름": "대명",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1124",
+          "subwayStationName": "대명"
+        }
+      ]
+    },
+    {
+      "역이름": "안지랑",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1125",
+          "subwayStationName": "안지랑"
+        }
+      ]
+    },
+    {
+      "역이름": "현충로",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1126",
+          "subwayStationName": "현충로"
+        }
+      ]
+    },
+    {
+      "역이름": "영대병원",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1127",
+          "subwayStationName": "영대병원"
+        }
+      ]
+    },
+    {
+      "역이름": "명덕(2.28민주운동기념회관)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 1호선",
+          "subwayStationId": "MTRDG1129",
+          "subwayStationName": "명덕(2.28민주운동기념회관)"
+        },
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3331",
+          "subwayStationName": "명덕(2.28민주운동기념회관)"
+        }
+      ]
+    },
+    {
+      "역이름": "대구은행",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2232",
+          "subwayStationName": "대구은행"
+        }
+      ]
+    },
+    {
+      "역이름": "범어",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2233",
+          "subwayStationName": "범어"
+        }
+      ]
+    },
+    {
+      "역이름": "수성구청(KBS)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2234",
+          "subwayStationName": "수성구청(KBS)"
+        }
+      ]
+    },
+    {
+      "역이름": "만촌",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2235",
+          "subwayStationName": "만촌"
+        }
+      ]
+    },
+    {
+      "역이름": "담티(산대·대륜)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2236",
+          "subwayStationName": "담티(산대·대륜)"
+        }
+      ]
+    },
+    {
+      "역이름": "연호",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2237",
+          "subwayStationName": "연호"
+        }
+      ]
+    },
+    {
+      "역이름": "대공원",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2238",
+          "subwayStationName": "대공원"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4437",
+          "subwayStationName": "대공원"
+        }
+      ]
+    },
+    {
+      "역이름": "고산",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2239",
+          "subwayStationName": "고산"
+        }
+      ]
+    },
+    {
+      "역이름": "신매",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2240",
+          "subwayStationName": "신매"
+        }
+      ]
+    },
+    {
+      "역이름": "사월",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2241",
+          "subwayStationName": "사월"
+        }
+      ]
+    },
+    {
+      "역이름": "정평",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2242",
+          "subwayStationName": "정평"
+        }
+      ]
+    },
+    {
+      "역이름": "임당",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2243",
+          "subwayStationName": "임당"
+        }
+      ]
+    },
+    {
+      "역이름": "영남대",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2244",
+          "subwayStationName": "영남대"
+        }
+      ]
+    },
+    {
+      "역이름": "경대병원",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2231",
+          "subwayStationName": "경대병원"
+        }
+      ]
+    },
+    {
+      "역이름": "청라언덕",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2229",
+          "subwayStationName": "청라언덕"
+        },
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3329",
+          "subwayStationName": "청라언덕"
+        }
+      ]
+    },
+    {
+      "역이름": "문양",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2216",
+          "subwayStationName": "문양"
+        }
+      ]
+    },
+    {
+      "역이름": "다사",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2217",
+          "subwayStationName": "다사"
+        }
+      ]
+    },
+    {
+      "역이름": "대실",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2218",
+          "subwayStationName": "대실"
+        }
+      ]
+    },
+    {
+      "역이름": "강창",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2219",
+          "subwayStationName": "강창"
+        }
+      ]
+    },
+    {
+      "역이름": "계명대",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2220",
+          "subwayStationName": "계명대"
+        }
+      ]
+    },
+    {
+      "역이름": "성서산업단지",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2221",
+          "subwayStationName": "성서산업단지"
+        }
+      ]
+    },
+    {
+      "역이름": "이곡",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2222",
+          "subwayStationName": "이곡"
+        }
+      ]
+    },
+    {
+      "역이름": "용산(서부법원·검찰청입구)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2223",
+          "subwayStationName": "용산(서부법원·검찰청입구)"
+        }
+      ]
+    },
+    {
+      "역이름": "죽전",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2224",
+          "subwayStationName": "죽전"
+        }
+      ]
+    },
+    {
+      "역이름": "감삼",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2225",
+          "subwayStationName": "감삼"
+        }
+      ]
+    },
+    {
+      "역이름": "두류",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2226",
+          "subwayStationName": "두류"
+        }
+      ]
+    },
+    {
+      "역이름": "내당",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2227",
+          "subwayStationName": "내당"
+        }
+      ]
+    },
+    {
+      "역이름": "반고개",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 2호선",
+          "subwayStationId": "MTRDG2228",
+          "subwayStationName": "반고개"
+        }
+      ]
+    },
+    {
+      "역이름": "서문시장(동산병원)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3328",
+          "subwayStationName": "서문시장(동산병원)"
+        }
+      ]
+    },
+    {
+      "역이름": "남산",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3330",
+          "subwayStationName": "남산"
+        }
+      ]
+    },
+    {
+      "역이름": "건들바위",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3332",
+          "subwayStationName": "건들바위"
+        }
+      ]
+    },
+    {
+      "역이름": "대봉교",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3333",
+          "subwayStationName": "대봉교"
+        }
+      ]
+    },
+    {
+      "역이름": "수성시장",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3334",
+          "subwayStationName": "수성시장"
+        }
+      ]
+    },
+    {
+      "역이름": "수성구민운동장",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3335",
+          "subwayStationName": "수성구민운동장"
+        }
+      ]
+    },
+    {
+      "역이름": "어린이회관",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3336",
+          "subwayStationName": "어린이회관"
+        }
+      ]
+    },
+    {
+      "역이름": "황금",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3337",
+          "subwayStationName": "황금"
+        }
+      ]
+    },
+    {
+      "역이름": "수성못(TBC)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3338",
+          "subwayStationName": "수성못(TBC)"
+        }
+      ]
+    },
+    {
+      "역이름": "지산",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3339",
+          "subwayStationName": "지산"
+        }
+      ]
+    },
+    {
+      "역이름": "범물",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3340",
+          "subwayStationName": "범물"
+        }
+      ]
+    },
+    {
+      "역이름": "용지",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3341",
+          "subwayStationName": "용지"
+        }
+      ]
+    },
+    {
+      "역이름": "달성공원",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3327",
+          "subwayStationName": "달성공원"
+        }
+      ]
+    },
+    {
+      "역이름": "북구청",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3326",
+          "subwayStationName": "북구청"
+        }
+      ]
+    },
+    {
+      "역이름": "칠곡경대병원",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3312",
+          "subwayStationName": "칠곡경대병원"
+        }
+      ]
+    },
+    {
+      "역이름": "학정",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3313",
+          "subwayStationName": "학정"
+        }
+      ]
+    },
+    {
+      "역이름": "팔거(국립농관원·통계청)",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3314",
+          "subwayStationName": "팔거(국립농관원·통계청)"
+        }
+      ]
+    },
+    {
+      "역이름": "동천",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3315",
+          "subwayStationName": "동천"
+        },
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D14",
+          "subwayStationName": "동천"
+        }
+      ]
+    },
+    {
+      "역이름": "칠곡운암",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3316",
+          "subwayStationName": "칠곡운암"
+        }
+      ]
+    },
+    {
+      "역이름": "구암",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3317",
+          "subwayStationName": "구암"
+        },
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1117",
+          "subwayStationName": "구암"
+        }
+      ]
+    },
+    {
+      "역이름": "태전",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3318",
+          "subwayStationName": "태전"
+        }
+      ]
+    },
+    {
+      "역이름": "매천",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3319",
+          "subwayStationName": "매천"
+        }
+      ]
+    },
+    {
+      "역이름": "매천시장",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3320",
+          "subwayStationName": "매천시장"
+        }
+      ]
+    },
+    {
+      "역이름": "팔달",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3321",
+          "subwayStationName": "팔달"
+        }
+      ]
+    },
+    {
+      "역이름": "공단",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3322",
+          "subwayStationName": "공단"
+        }
+      ]
+    },
+    {
+      "역이름": "만평",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3323",
+          "subwayStationName": "만평"
+        }
+      ]
+    },
+    {
+      "역이름": "팔달시장",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3324",
+          "subwayStationName": "팔달시장"
+        }
+      ]
+    },
+    {
+      "역이름": "원대",
+      "stationList": [
+        {
+          "subwayRouteName": "대구 3호선",
+          "subwayStationId": "MTRDG3325",
+          "subwayStationName": "원대"
+        }
+      ]
+    },
+    {
+      "역이름": "갈마",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1113",
+          "subwayStationName": "갈마"
+        }
+      ]
+    },
+    {
+      "역이름": "월평(한국과학기술원)",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1114",
+          "subwayStationName": "월평(한국과학기술원)"
+        }
+      ]
+    },
+    {
+      "역이름": "갑천",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1115",
+          "subwayStationName": "갑천"
+        }
+      ]
+    },
+    {
+      "역이름": "유성온천(충남대·목원대)",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1116",
+          "subwayStationName": "유성온천(충남대·목원대)"
+        }
+      ]
+    },
+    {
+      "역이름": "현충원(한밭대)",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1118",
+          "subwayStationName": "현충원(한밭대)"
+        }
+      ]
+    },
+    {
+      "역이름": "월드컵경기장(노은도매시장)",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1119",
+          "subwayStationName": "월드컵경기장(노은도매시장)"
+        }
+      ]
+    },
+    {
+      "역이름": "노은",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1120",
+          "subwayStationName": "노은"
+        }
+      ]
+    },
+    {
+      "역이름": "지족(침신대)",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1121",
+          "subwayStationName": "지족(침신대)"
+        }
+      ]
+    },
+    {
+      "역이름": "반석(칠성대)",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1122",
+          "subwayStationName": "반석(칠성대)"
+        }
+      ]
+    },
+    {
+      "역이름": "정부청사",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1112",
+          "subwayStationName": "정부청사"
+        }
+      ]
+    },
+    {
+      "역이름": "시청",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1111",
+          "subwayStationName": "시청"
+        },
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11132",
+          "subwayStationName": "시청"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12201",
+          "subwayStationName": "시청"
+        }
+      ]
+    },
+    {
+      "역이름": "판암(대전대)",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1101",
+          "subwayStationName": "판암(대전대)"
+        }
+      ]
+    },
+    {
+      "역이름": "신흥",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1102",
+          "subwayStationName": "신흥"
+        },
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58824",
+          "subwayStationName": "신흥"
+        }
+      ]
+    },
+    {
+      "역이름": "대동(우송대)",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1103",
+          "subwayStationName": "대동(우송대)"
+        }
+      ]
+    },
+    {
+      "역이름": "대전",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1104",
+          "subwayStationName": "대전"
+        }
+      ]
+    },
+    {
+      "역이름": "중구청",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1106",
+          "subwayStationName": "중구청"
+        }
+      ]
+    },
+    {
+      "역이름": "서대전네거리",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1107",
+          "subwayStationName": "서대전네거리"
+        }
+      ]
+    },
+    {
+      "역이름": "오룡",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1108",
+          "subwayStationName": "오룡"
+        }
+      ]
+    },
+    {
+      "역이름": "용문",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1109",
+          "subwayStationName": "용문"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K137",
+          "subwayStationName": "용문"
+        }
+      ]
+    },
+    {
+      "역이름": "탄방",
+      "stationList": [
+        {
+          "subwayRouteName": "대전 1호선",
+          "subwayStationId": "MTRDJ1110",
+          "subwayStationName": "탄방"
+        }
+      ]
+    },
+    {
+      "역이름": "광교(경기대)",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D19",
+          "subwayStationName": "광교(경기대)"
+        }
+      ]
+    },
+    {
+      "역이름": "광교중앙(아주대)",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D18",
+          "subwayStationName": "광교중앙(아주대)"
+        }
+      ]
+    },
+    {
+      "역이름": "상현",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D17",
+          "subwayStationName": "상현"
+        }
+      ]
+    },
+    {
+      "역이름": "성복",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D16",
+          "subwayStationName": "성복"
+        }
+      ]
+    },
+    {
+      "역이름": "수지구청",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D15",
+          "subwayStationName": "수지구청"
+        }
+      ]
+    },
+    {
+      "역이름": "정자",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D12",
+          "subwayStationName": "정자"
+        },
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K230",
+          "subwayStationName": "정자"
+        }
+      ]
+    },
+    {
+      "역이름": "판교(판교테크노밸리)",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D11",
+          "subwayStationName": "판교(판교테크노밸리)"
+        },
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K410",
+          "subwayStationName": "판교(판교테크노밸리)"
+        }
+      ]
+    },
+    {
+      "역이름": "청계산입구",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D10",
+          "subwayStationName": "청계산입구"
+        }
+      ]
+    },
+    {
+      "역이름": "양재시민의숲(매헌)",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D09",
+          "subwayStationName": "양재시민의숲(매헌)"
+        }
+      ]
+    },
+    {
+      "역이름": "양재(서초구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D08",
+          "subwayStationName": "양재(서초구청)"
+        },
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13342",
+          "subwayStationName": "양재(서초구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "강남",
+      "stationList": [
+        {
+          "subwayRouteName": "신분당",
+          "subwayStationId": "MTRDXD1D07",
+          "subwayStationName": "강남"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12222",
+          "subwayStationName": "강남"
+        }
+      ]
+    },
+    {
+      "역이름": "전대·에버랜드",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y124",
+          "subwayStationName": "전대·에버랜드"
+        }
+      ]
+    },
+    {
+      "역이름": "둔전",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y123",
+          "subwayStationName": "둔전"
+        }
+      ]
+    },
+    {
+      "역이름": "보평",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y122",
+          "subwayStationName": "보평"
+        }
+      ]
+    },
+    {
+      "역이름": "고진",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y121",
+          "subwayStationName": "고진"
+        }
+      ]
+    },
+    {
+      "역이름": "운동장·송담대",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y120",
+          "subwayStationName": "운동장·송담대"
+        }
+      ]
+    },
+    {
+      "역이름": "김량장",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y119",
+          "subwayStationName": "김량장"
+        }
+      ]
+    },
+    {
+      "역이름": "명지대",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y118",
+          "subwayStationName": "명지대"
+        }
+      ]
+    },
+    {
+      "역이름": "시청·용인대",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y117",
+          "subwayStationName": "시청·용인대"
+        }
+      ]
+    },
+    {
+      "역이름": "삼가",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y116",
+          "subwayStationName": "삼가"
+        }
+      ]
+    },
+    {
+      "역이름": "초당",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y115",
+          "subwayStationName": "초당"
+        }
+      ]
+    },
+    {
+      "역이름": "어정",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y113",
+          "subwayStationName": "어정"
+        }
+      ]
+    },
+    {
+      "역이름": "지석",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y112",
+          "subwayStationName": "지석"
+        }
+      ]
+    },
+    {
+      "역이름": "강남대",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y111",
+          "subwayStationName": "강남대"
+        }
+      ]
+    },
+    {
+      "역이름": "기흥(백남준아트센터)",
+      "stationList": [
+        {
+          "subwayRouteName": "에버라인",
+          "subwayStationId": "MTREVE1Y110",
+          "subwayStationName": "기흥(백남준아트센터)"
+        },
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K237",
+          "subwayStationName": "기흥(백남준아트센터)"
+        }
+      ]
+    },
+    {
+      "역이름": "쌍촌",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1111",
+          "subwayStationName": "쌍촌"
+        }
+      ]
+    },
+    {
+      "역이름": "운천",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1112",
+          "subwayStationName": "운천"
+        }
+      ]
+    },
+    {
+      "역이름": "상무",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1113",
+          "subwayStationName": "상무"
+        }
+      ]
+    },
+    {
+      "역이름": "김대중컨벤션센터",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1114",
+          "subwayStationName": "김대중컨벤션센터"
+        }
+      ]
+    },
+    {
+      "역이름": "송정공원",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1116",
+          "subwayStationName": "송정공원"
+        }
+      ]
+    },
+    {
+      "역이름": "광주송정역",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1117",
+          "subwayStationName": "광주송정역"
+        }
+      ]
+    },
+    {
+      "역이름": "도산",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1118",
+          "subwayStationName": "도산"
+        }
+      ]
+    },
+    {
+      "역이름": "평동",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1119",
+          "subwayStationName": "평동"
+        }
+      ]
+    },
+    {
+      "역이름": "화정",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1110",
+          "subwayStationName": "화정"
+        },
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3315",
+          "subwayStationName": "화정"
+        }
+      ]
+    },
+    {
+      "역이름": "농성",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1109",
+          "subwayStationName": "농성"
+        }
+      ]
+    },
+    {
+      "역이름": "돌고개",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1108",
+          "subwayStationName": "돌고개"
+        }
+      ]
+    },
+    {
+      "역이름": "양동시장",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1107",
+          "subwayStationName": "양동시장"
+        }
+      ]
+    },
+    {
+      "역이름": "금남로5가",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1106",
+          "subwayStationName": "금남로5가"
+        }
+      ]
+    },
+    {
+      "역이름": "금남로4가",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1105",
+          "subwayStationName": "금남로4가"
+        }
+      ]
+    },
+    {
+      "역이름": "문화전당",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1104",
+          "subwayStationName": "문화전당"
+        }
+      ]
+    },
+    {
+      "역이름": "남광주",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1103",
+          "subwayStationName": "남광주"
+        }
+      ]
+    },
+    {
+      "역이름": "학동증심사입구",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1102",
+          "subwayStationName": "학동증심사입구"
+        }
+      ]
+    },
+    {
+      "역이름": "소태",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1101",
+          "subwayStationName": "소태"
+        }
+      ]
+    },
+    {
+      "역이름": "녹동",
+      "stationList": [
+        {
+          "subwayRouteName": "광주 1호선",
+          "subwayStationId": "MTRGJ1100",
+          "subwayStationName": "녹동"
+        }
+      ]
+    },
+    {
+      "역이름": "인천터미널",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13126",
+          "subwayStationName": "인천터미널"
+        }
+      ]
+    },
+    {
+      "역이름": "문학경기장",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13127",
+          "subwayStationName": "문학경기장"
+        }
+      ]
+    },
+    {
+      "역이름": "선학",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13128",
+          "subwayStationName": "선학"
+        }
+      ]
+    },
+    {
+      "역이름": "신연수",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13129",
+          "subwayStationName": "신연수"
+        }
+      ]
+    },
+    {
+      "역이름": "원인재",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13130",
+          "subwayStationName": "원인재"
+        }
+      ]
+    },
+    {
+      "역이름": "동춘",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13131",
+          "subwayStationName": "동춘"
+        }
+      ]
+    },
+    {
+      "역이름": "동막",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13132",
+          "subwayStationName": "동막"
+        }
+      ]
+    },
+    {
+      "역이름": "캠퍼스타운",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13133",
+          "subwayStationName": "캠퍼스타운"
+        }
+      ]
+    },
+    {
+      "역이름": "테크노파크",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13134",
+          "subwayStationName": "테크노파크"
+        }
+      ]
+    },
+    {
+      "역이름": "지식정보단지",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13135",
+          "subwayStationName": "지식정보단지"
+        }
+      ]
+    },
+    {
+      "역이름": "인천대입구",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13136",
+          "subwayStationName": "인천대입구"
+        }
+      ]
+    },
+    {
+      "역이름": "센트럴파크",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13137",
+          "subwayStationName": "센트럴파크"
+        }
+      ]
+    },
+    {
+      "역이름": "국제업무지구",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13138",
+          "subwayStationName": "국제업무지구"
+        }
+      ]
+    },
+    {
+      "역이름": "예술회관",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13125",
+          "subwayStationName": "예술회관"
+        }
+      ]
+    },
+    {
+      "역이름": "인천시청",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13124",
+          "subwayStationName": "인천시청"
+        },
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23221",
+          "subwayStationName": "인천시청"
+        }
+      ]
+    },
+    {
+      "역이름": "간석오거리",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13123",
+          "subwayStationName": "간석오거리"
+        }
+      ]
+    },
+    {
+      "역이름": "귤현",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13111",
+          "subwayStationName": "귤현"
+        }
+      ]
+    },
+    {
+      "역이름": "박촌",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13112",
+          "subwayStationName": "박촌"
+        }
+      ]
+    },
+    {
+      "역이름": "임학",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13113",
+          "subwayStationName": "임학"
+        }
+      ]
+    },
+    {
+      "역이름": "계산",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13114",
+          "subwayStationName": "계산"
+        }
+      ]
+    },
+    {
+      "역이름": "경인교대입구",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13115",
+          "subwayStationName": "경인교대입구"
+        }
+      ]
+    },
+    {
+      "역이름": "작전",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13116",
+          "subwayStationName": "작전"
+        }
+      ]
+    },
+    {
+      "역이름": "갈산",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13117",
+          "subwayStationName": "갈산"
+        }
+      ]
+    },
+    {
+      "역이름": "부평구청",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13118",
+          "subwayStationName": "부평구청"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57759",
+          "subwayStationName": "부평구청"
+        }
+      ]
+    },
+    {
+      "역이름": "부평시장",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13119",
+          "subwayStationName": "부평시장"
+        }
+      ]
+    },
+    {
+      "역이름": "부평",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13120",
+          "subwayStationName": "부평"
+        },
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1152",
+          "subwayStationName": "부평"
+        }
+      ]
+    },
+    {
+      "역이름": "동수",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13121",
+          "subwayStationName": "동수"
+        }
+      ]
+    },
+    {
+      "역이름": "부평삼거리",
+      "stationList": [
+        {
+          "subwayRouteName": "인천1호선",
+          "subwayStationId": "MTRICI13122",
+          "subwayStationName": "부평삼거리"
+        }
+      ]
+    },
+    {
+      "역이름": "가재울",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23216",
+          "subwayStationName": "가재울"
+        }
+      ]
+    },
+    {
+      "역이름": "주안국가산단",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23217",
+          "subwayStationName": "주안국가산단"
+        }
+      ]
+    },
+    {
+      "역이름": "주안",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23218",
+          "subwayStationName": "주안"
+        },
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1156",
+          "subwayStationName": "주안"
+        }
+      ]
+    },
+    {
+      "역이름": "시민공원",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23219",
+          "subwayStationName": "시민공원"
+        }
+      ]
+    },
+    {
+      "역이름": "석바위시장",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23220",
+          "subwayStationName": "석바위시장"
+        }
+      ]
+    },
+    {
+      "역이름": "석천사거리",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23222",
+          "subwayStationName": "석천사거리"
+        }
+      ]
+    },
+    {
+      "역이름": "모래내시장",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23223",
+          "subwayStationName": "모래내시장"
+        }
+      ]
+    },
+    {
+      "역이름": "만수",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23224",
+          "subwayStationName": "만수"
+        }
+      ]
+    },
+    {
+      "역이름": "남동구청",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23225",
+          "subwayStationName": "남동구청"
+        }
+      ]
+    },
+    {
+      "역이름": "인천대공원",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23226",
+          "subwayStationName": "인천대공원"
+        }
+      ]
+    },
+    {
+      "역이름": "운연",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23227",
+          "subwayStationName": "운연"
+        }
+      ]
+    },
+    {
+      "역이름": "인천가좌",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23215",
+          "subwayStationName": "인천가좌"
+        }
+      ]
+    },
+    {
+      "역이름": "서부여성회관",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23214",
+          "subwayStationName": "서부여성회관"
+        }
+      ]
+    },
+    {
+      "역이름": "석남",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23213",
+          "subwayStationName": "석남"
+        }
+      ]
+    },
+    {
+      "역이름": "검단오류",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23201",
+          "subwayStationName": "검단오류"
+        }
+      ]
+    },
+    {
+      "역이름": "왕길",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23202",
+          "subwayStationName": "왕길"
+        }
+      ]
+    },
+    {
+      "역이름": "검단사거리",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23203",
+          "subwayStationName": "검단사거리"
+        }
+      ]
+    },
+    {
+      "역이름": "마전",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23204",
+          "subwayStationName": "마전"
+        }
+      ]
+    },
+    {
+      "역이름": "완정",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23205",
+          "subwayStationName": "완정"
+        }
+      ]
+    },
+    {
+      "역이름": "독정",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23206",
+          "subwayStationName": "독정"
+        }
+      ]
+    },
+    {
+      "역이름": "검바위",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23208",
+          "subwayStationName": "검바위"
+        }
+      ]
+    },
+    {
+      "역이름": "아시아드경기장",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23209",
+          "subwayStationName": "아시아드경기장"
+        }
+      ]
+    },
+    {
+      "역이름": "서구청",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23210",
+          "subwayStationName": "서구청"
+        }
+      ]
+    },
+    {
+      "역이름": "가정",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23211",
+          "subwayStationName": "가정"
+        }
+      ]
+    },
+    {
+      "역이름": "가정중앙시장",
+      "stationList": [
+        {
+          "subwayRouteName": "인천2호선",
+          "subwayStationId": "MTRICI23212",
+          "subwayStationName": "가정중앙시장"
+        }
+      ]
+    },
+    {
+      "역이름": "화서",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P154",
+          "subwayStationName": "화서"
+        }
+      ]
+    },
+    {
+      "역이름": "성균관대",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P153",
+          "subwayStationName": "성균관대"
+        }
+      ]
+    },
+    {
+      "역이름": "의왕",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P152",
+          "subwayStationName": "의왕"
+        }
+      ]
+    },
+    {
+      "역이름": "당정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P151",
+          "subwayStationName": "당정"
+        }
+      ]
+    },
+    {
+      "역이름": "군포",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P150",
+          "subwayStationName": "군포"
+        }
+      ]
+    },
+    {
+      "역이름": "금정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P149",
+          "subwayStationName": "금정"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4443",
+          "subwayStationName": "금정"
+        }
+      ]
+    },
+    {
+      "역이름": "명학",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P148",
+          "subwayStationName": "명학"
+        }
+      ]
+    },
+    {
+      "역이름": "안양",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P147",
+          "subwayStationName": "안양"
+        }
+      ]
+    },
+    {
+      "역이름": "관악",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P146",
+          "subwayStationName": "관악"
+        }
+      ]
+    },
+    {
+      "역이름": "석수",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P145",
+          "subwayStationName": "석수"
+        }
+      ]
+    },
+    {
+      "역이름": "금천구청",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P144",
+          "subwayStationName": "금천구청"
+        }
+      ]
+    },
+    {
+      "역이름": "독산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P143",
+          "subwayStationName": "독산"
+        }
+      ]
+    },
+    {
+      "역이름": "가산디지털단지",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P142",
+          "subwayStationName": "가산디지털단지"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57746",
+          "subwayStationName": "가산디지털단지"
+        }
+      ]
+    },
+    {
+      "역이름": "인천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1161",
+          "subwayStationName": "인천"
+        }
+      ]
+    },
+    {
+      "역이름": "동인천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1160",
+          "subwayStationName": "동인천"
+        }
+      ]
+    },
+    {
+      "역이름": "도원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1159",
+          "subwayStationName": "도원"
+        }
+      ]
+    },
+    {
+      "역이름": "제물포",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1158",
+          "subwayStationName": "제물포"
+        }
+      ]
+    },
+    {
+      "역이름": "도화",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1157",
+          "subwayStationName": "도화"
+        }
+      ]
+    },
+    {
+      "역이름": "간석",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1155",
+          "subwayStationName": "간석"
+        }
+      ]
+    },
+    {
+      "역이름": "수원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P155",
+          "subwayStationName": "수원"
+        },
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K245",
+          "subwayStationName": "수원"
+        }
+      ]
+    },
+    {
+      "역이름": "세류",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P156",
+          "subwayStationName": "세류"
+        }
+      ]
+    },
+    {
+      "역이름": "신창(순천향대)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P177",
+          "subwayStationName": "신창(순천향대)"
+        }
+      ]
+    },
+    {
+      "역이름": "온양온천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P176",
+          "subwayStationName": "온양온천"
+        }
+      ]
+    },
+    {
+      "역이름": "배방",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P174",
+          "subwayStationName": "배방"
+        }
+      ]
+    },
+    {
+      "역이름": "아산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P172",
+          "subwayStationName": "아산"
+        }
+      ]
+    },
+    {
+      "역이름": "쌍용(나사렛대)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P171",
+          "subwayStationName": "쌍용(나사렛대)"
+        }
+      ]
+    },
+    {
+      "역이름": "봉명",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P170",
+          "subwayStationName": "봉명"
+        }
+      ]
+    },
+    {
+      "역이름": "천안",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P169",
+          "subwayStationName": "천안"
+        }
+      ]
+    },
+    {
+      "역이름": "두정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P168",
+          "subwayStationName": "두정"
+        }
+      ]
+    },
+    {
+      "역이름": "직산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P167",
+          "subwayStationName": "직산"
+        }
+      ]
+    },
+    {
+      "역이름": "성환",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P166",
+          "subwayStationName": "성환"
+        }
+      ]
+    },
+    {
+      "역이름": "평택",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P165",
+          "subwayStationName": "평택"
+        }
+      ]
+    },
+    {
+      "역이름": "지제",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P164",
+          "subwayStationName": "지제"
+        }
+      ]
+    },
+    {
+      "역이름": "서정리",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P163",
+          "subwayStationName": "서정리"
+        }
+      ]
+    },
+    {
+      "역이름": "송탄",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P162",
+          "subwayStationName": "송탄"
+        }
+      ]
+    },
+    {
+      "역이름": "진위",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P161",
+          "subwayStationName": "진위"
+        }
+      ]
+    },
+    {
+      "역이름": "오산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P160",
+          "subwayStationName": "오산"
+        }
+      ]
+    },
+    {
+      "역이름": "오산대",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P159",
+          "subwayStationName": "오산대"
+        }
+      ]
+    },
+    {
+      "역이름": "세마",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P158",
+          "subwayStationName": "세마"
+        }
+      ]
+    },
+    {
+      "역이름": "서동탄",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P157-1",
+          "subwayStationName": "서동탄"
+        }
+      ]
+    },
+    {
+      "역이름": "병점",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1P157",
+          "subwayStationName": "병점"
+        }
+      ]
+    },
+    {
+      "역이름": "동암",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1154",
+          "subwayStationName": "동암"
+        }
+      ]
+    },
+    {
+      "역이름": "백운",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1153",
+          "subwayStationName": "백운"
+        }
+      ]
+    },
+    {
+      "역이름": "광운대",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1119",
+          "subwayStationName": "광운대"
+        }
+      ]
+    },
+    {
+      "역이름": "월계",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1118",
+          "subwayStationName": "월계"
+        }
+      ]
+    },
+    {
+      "역이름": "녹천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1117",
+          "subwayStationName": "녹천"
+        }
+      ]
+    },
+    {
+      "역이름": "창동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1116",
+          "subwayStationName": "창동"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14412",
+          "subwayStationName": "창동"
+        }
+      ]
+    },
+    {
+      "역이름": "방학",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1115",
+          "subwayStationName": "방학"
+        }
+      ]
+    },
+    {
+      "역이름": "도봉",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1114",
+          "subwayStationName": "도봉"
+        }
+      ]
+    },
+    {
+      "역이름": "도봉산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1113",
+          "subwayStationName": "도봉산"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57710",
+          "subwayStationName": "도봉산"
+        }
+      ]
+    },
+    {
+      "역이름": "망월사",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1112",
+          "subwayStationName": "망월사"
+        }
+      ]
+    },
+    {
+      "역이름": "회룡",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1111",
+          "subwayStationName": "회룡"
+        },
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U111",
+          "subwayStationName": "회룡"
+        }
+      ]
+    },
+    {
+      "역이름": "의정부",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1110",
+          "subwayStationName": "의정부"
+        }
+      ]
+    },
+    {
+      "역이름": "가능",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1109",
+          "subwayStationName": "가능"
+        }
+      ]
+    },
+    {
+      "역이름": "녹양",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1108",
+          "subwayStationName": "녹양"
+        }
+      ]
+    },
+    {
+      "역이름": "양주",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1107",
+          "subwayStationName": "양주"
+        }
+      ]
+    },
+    {
+      "역이름": "덕계",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1106",
+          "subwayStationName": "덕계"
+        }
+      ]
+    },
+    {
+      "역이름": "덕정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1105",
+          "subwayStationName": "덕정"
+        }
+      ]
+    },
+    {
+      "역이름": "지행",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1104",
+          "subwayStationName": "지행"
+        }
+      ]
+    },
+    {
+      "역이름": "동두천중앙",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1103",
+          "subwayStationName": "동두천중앙"
+        }
+      ]
+    },
+    {
+      "역이름": "보산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1102",
+          "subwayStationName": "보산"
+        }
+      ]
+    },
+    {
+      "역이름": "동두천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1101",
+          "subwayStationName": "동두천"
+        }
+      ]
+    },
+    {
+      "역이름": "소요산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1100",
+          "subwayStationName": "소요산"
+        }
+      ]
+    },
+    {
+      "역이름": "석계",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1120",
+          "subwayStationName": "석계"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56644",
+          "subwayStationName": "석계"
+        }
+      ]
+    },
+    {
+      "역이름": "신이문",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1121",
+          "subwayStationName": "신이문"
+        }
+      ]
+    },
+    {
+      "역이름": "부개",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1151",
+          "subwayStationName": "부개"
+        }
+      ]
+    },
+    {
+      "역이름": "송내",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1150",
+          "subwayStationName": "송내"
+        }
+      ]
+    },
+    {
+      "역이름": "부천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1148",
+          "subwayStationName": "부천"
+        }
+      ]
+    },
+    {
+      "역이름": "소사",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1147",
+          "subwayStationName": "소사"
+        }
+      ]
+    },
+    {
+      "역이름": "역곡",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1146",
+          "subwayStationName": "역곡"
+        }
+      ]
+    },
+    {
+      "역이름": "온수",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1145",
+          "subwayStationName": "온수"
+        }
+      ]
+    },
+    {
+      "역이름": "오류동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1144",
+          "subwayStationName": "오류동"
+        }
+      ]
+    },
+    {
+      "역이름": "개봉",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1143",
+          "subwayStationName": "개봉"
+        }
+      ]
+    },
+    {
+      "역이름": "구일",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1142",
+          "subwayStationName": "구일"
+        }
+      ]
+    },
+    {
+      "역이름": "구로",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1141",
+          "subwayStationName": "구로"
+        }
+      ]
+    },
+    {
+      "역이름": "신도림",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1140",
+          "subwayStationName": "신도림"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12234",
+          "subwayStationName": "신도림"
+        }
+      ]
+    },
+    {
+      "역이름": "영등포",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1139",
+          "subwayStationName": "영등포"
+        }
+      ]
+    },
+    {
+      "역이름": "신길",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1138",
+          "subwayStationName": "신길"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55525",
+          "subwayStationName": "신길"
+        }
+      ]
+    },
+    {
+      "역이름": "대방",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1137",
+          "subwayStationName": "대방"
+        }
+      ]
+    },
+    {
+      "역이름": "노량진",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1136",
+          "subwayStationName": "노량진"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99917",
+          "subwayStationName": "노량진"
+        }
+      ]
+    },
+    {
+      "역이름": "용산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1135",
+          "subwayStationName": "용산"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K110",
+          "subwayStationName": "용산"
+        }
+      ]
+    },
+    {
+      "역이름": "남영",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1134",
+          "subwayStationName": "남영"
+        }
+      ]
+    },
+    {
+      "역이름": "회기",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1123",
+          "subwayStationName": "회기"
+        },
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2K118",
+          "subwayStationName": "회기"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K118",
+          "subwayStationName": "회기"
+        }
+      ]
+    },
+    {
+      "역이름": "외대앞",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRKR1122",
+          "subwayStationName": "외대앞"
+        }
+      ]
+    },
+    {
+      "역이름": "삼송",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3318",
+          "subwayStationName": "삼송"
+        }
+      ]
+    },
+    {
+      "역이름": "원흥",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3317",
+          "subwayStationName": "원흥"
+        }
+      ]
+    },
+    {
+      "역이름": "원당",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3316",
+          "subwayStationName": "원당"
+        }
+      ]
+    },
+    {
+      "역이름": "대곡",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3314",
+          "subwayStationName": "대곡"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K322",
+          "subwayStationName": "대곡"
+        }
+      ]
+    },
+    {
+      "역이름": "백석",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3313",
+          "subwayStationName": "백석"
+        }
+      ]
+    },
+    {
+      "역이름": "마두",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3312",
+          "subwayStationName": "마두"
+        }
+      ]
+    },
+    {
+      "역이름": "정발산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3311",
+          "subwayStationName": "정발산"
+        }
+      ]
+    },
+    {
+      "역이름": "주엽",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3310",
+          "subwayStationName": "주엽"
+        }
+      ]
+    },
+    {
+      "역이름": "대화",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRKR3309",
+          "subwayStationName": "대화"
+        }
+      ]
+    },
+    {
+      "역이름": "오이도",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4456",
+          "subwayStationName": "오이도"
+        }
+      ]
+    },
+    {
+      "역이름": "정왕",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4455",
+          "subwayStationName": "정왕"
+        }
+      ]
+    },
+    {
+      "역이름": "신길온천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4454",
+          "subwayStationName": "신길온천"
+        }
+      ]
+    },
+    {
+      "역이름": "안산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4453",
+          "subwayStationName": "안산"
+        }
+      ]
+    },
+    {
+      "역이름": "초지",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4452",
+          "subwayStationName": "초지"
+        }
+      ]
+    },
+    {
+      "역이름": "고잔",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4451",
+          "subwayStationName": "고잔"
+        }
+      ]
+    },
+    {
+      "역이름": "한대앞",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4449",
+          "subwayStationName": "한대앞"
+        }
+      ]
+    },
+    {
+      "역이름": "상록수",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4448",
+          "subwayStationName": "상록수"
+        }
+      ]
+    },
+    {
+      "역이름": "반월",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4447",
+          "subwayStationName": "반월"
+        }
+      ]
+    },
+    {
+      "역이름": "대야미",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4446",
+          "subwayStationName": "대야미"
+        }
+      ]
+    },
+    {
+      "역이름": "수리산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4445",
+          "subwayStationName": "수리산"
+        }
+      ]
+    },
+    {
+      "역이름": "선바위",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4435",
+          "subwayStationName": "선바위"
+        }
+      ]
+    },
+    {
+      "역이름": "경마공원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4436",
+          "subwayStationName": "경마공원"
+        }
+      ]
+    },
+    {
+      "역이름": "과천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4438",
+          "subwayStationName": "과천"
+        }
+      ]
+    },
+    {
+      "역이름": "정부과천청사",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4439",
+          "subwayStationName": "정부과천청사"
+        }
+      ]
+    },
+    {
+      "역이름": "인덕원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4440",
+          "subwayStationName": "인덕원"
+        }
+      ]
+    },
+    {
+      "역이름": "평촌",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4441",
+          "subwayStationName": "평촌"
+        }
+      ]
+    },
+    {
+      "역이름": "범계",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4442",
+          "subwayStationName": "범계"
+        }
+      ]
+    },
+    {
+      "역이름": "산본",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRKR4444",
+          "subwayStationName": "산본"
+        }
+      ]
+    },
+    {
+      "역이름": "수내(한국잡월드)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K229",
+          "subwayStationName": "수내(한국잡월드)"
+        }
+      ]
+    },
+    {
+      "역이름": "미금(분당서울대병원)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K231",
+          "subwayStationName": "미금(분당서울대병원)"
+        }
+      ]
+    },
+    {
+      "역이름": "오리",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K232",
+          "subwayStationName": "오리"
+        }
+      ]
+    },
+    {
+      "역이름": "죽전(단국대)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K233",
+          "subwayStationName": "죽전(단국대)"
+        }
+      ]
+    },
+    {
+      "역이름": "보정",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K234",
+          "subwayStationName": "보정"
+        }
+      ]
+    },
+    {
+      "역이름": "구성",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K235",
+          "subwayStationName": "구성"
+        }
+      ]
+    },
+    {
+      "역이름": "신갈",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K236",
+          "subwayStationName": "신갈"
+        }
+      ]
+    },
+    {
+      "역이름": "상갈(루터대학교)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K238",
+          "subwayStationName": "상갈(루터대학교)"
+        }
+      ]
+    },
+    {
+      "역이름": "청명",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K239",
+          "subwayStationName": "청명"
+        }
+      ]
+    },
+    {
+      "역이름": "영통(경희대)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K240",
+          "subwayStationName": "영통(경희대)"
+        }
+      ]
+    },
+    {
+      "역이름": "망포",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K241",
+          "subwayStationName": "망포"
+        }
+      ]
+    },
+    {
+      "역이름": "매탄권선",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K242",
+          "subwayStationName": "매탄권선"
+        }
+      ]
+    },
+    {
+      "역이름": "수원시청(경기도문화의전당)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K243",
+          "subwayStationName": "수원시청(경기도문화의전당)"
+        }
+      ]
+    },
+    {
+      "역이름": "매교",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K244",
+          "subwayStationName": "매교"
+        }
+      ]
+    },
+    {
+      "역이름": "서현",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K228",
+          "subwayStationName": "서현"
+        }
+      ]
+    },
+    {
+      "역이름": "이매(성남아트센터)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K227",
+          "subwayStationName": "이매(성남아트센터)"
+        }
+      ]
+    },
+    {
+      "역이름": "왕십리",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K210",
+          "subwayStationName": "왕십리"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K116",
+          "subwayStationName": "왕십리"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12208",
+          "subwayStationName": "왕십리"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55540",
+          "subwayStationName": "왕십리"
+        }
+      ]
+    },
+    {
+      "역이름": "서울숲",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K211",
+          "subwayStationName": "서울숲"
+        }
+      ]
+    },
+    {
+      "역이름": "압구정로데오",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K212",
+          "subwayStationName": "압구정로데오"
+        }
+      ]
+    },
+    {
+      "역이름": "강남구청",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K213",
+          "subwayStationName": "강남구청"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57730",
+          "subwayStationName": "강남구청"
+        }
+      ]
+    },
+    {
+      "역이름": "선정릉(한국과학창의재단)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K214",
+          "subwayStationName": "선정릉(한국과학창의재단)"
+        }
+      ]
+    },
+    {
+      "역이름": "선릉",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K215",
+          "subwayStationName": "선릉"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12220",
+          "subwayStationName": "선릉"
+        }
+      ]
+    },
+    {
+      "역이름": "한티",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K216",
+          "subwayStationName": "한티"
+        }
+      ]
+    },
+    {
+      "역이름": "도곡",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K217",
+          "subwayStationName": "도곡"
+        },
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13344",
+          "subwayStationName": "도곡"
+        }
+      ]
+    },
+    {
+      "역이름": "구룡",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K218",
+          "subwayStationName": "구룡"
+        }
+      ]
+    },
+    {
+      "역이름": "개포동",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K219",
+          "subwayStationName": "개포동"
+        }
+      ]
+    },
+    {
+      "역이름": "대모산입구",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K220",
+          "subwayStationName": "대모산입구"
+        }
+      ]
+    },
+    {
+      "역이름": "수서",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K221",
+          "subwayStationName": "수서"
+        },
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13349",
+          "subwayStationName": "수서"
+        }
+      ]
+    },
+    {
+      "역이름": "복정(동서울대학)",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K222",
+          "subwayStationName": "복정(동서울대학)"
+        }
+      ]
+    },
+    {
+      "역이름": "가천대",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K223",
+          "subwayStationName": "가천대"
+        }
+      ]
+    },
+    {
+      "역이름": "태평",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K224",
+          "subwayStationName": "태평"
+        }
+      ]
+    },
+    {
+      "역이름": "모란",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K225",
+          "subwayStationName": "모란"
+        },
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58826",
+          "subwayStationName": "모란"
+        }
+      ]
+    },
+    {
+      "역이름": "야탑",
+      "stationList": [
+        {
+          "subwayRouteName": "수인분당",
+          "subwayStationId": "MTRKRK1K226",
+          "subwayStationName": "야탑"
+        }
+      ]
+    },
+    {
+      "역이름": "마석",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P130",
+          "subwayStationName": "마석"
+        }
+      ]
+    },
+    {
+      "역이름": "대성리",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P131",
+          "subwayStationName": "대성리"
+        }
+      ]
+    },
+    {
+      "역이름": "청평",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P132",
+          "subwayStationName": "청평"
+        }
+      ]
+    },
+    {
+      "역이름": "상천(호명호수)",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P133",
+          "subwayStationName": "상천(호명호수)"
+        }
+      ]
+    },
+    {
+      "역이름": "가평(자라섬·남이섬)",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P134",
+          "subwayStationName": "가평(자라섬·남이섬)"
+        }
+      ]
+    },
+    {
+      "역이름": "굴봉산(제이드가든)",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P135",
+          "subwayStationName": "굴봉산(제이드가든)"
+        }
+      ]
+    },
+    {
+      "역이름": "백양리(엘리시안강촌)",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P136",
+          "subwayStationName": "백양리(엘리시안강촌)"
+        }
+      ]
+    },
+    {
+      "역이름": "강촌",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P137",
+          "subwayStationName": "강촌"
+        }
+      ]
+    },
+    {
+      "역이름": "김유정",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P138",
+          "subwayStationName": "김유정"
+        }
+      ]
+    },
+    {
+      "역이름": "남춘천(강원대)",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P139",
+          "subwayStationName": "남춘천(강원대)"
+        }
+      ]
+    },
+    {
+      "역이름": "춘천(한림대)",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P140",
+          "subwayStationName": "춘천(한림대)"
+        }
+      ]
+    },
+    {
+      "역이름": "천마산",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P129",
+          "subwayStationName": "천마산"
+        }
+      ]
+    },
+    {
+      "역이름": "평내호평",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P128",
+          "subwayStationName": "평내호평"
+        }
+      ]
+    },
+    {
+      "역이름": "청량리",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2K117",
+          "subwayStationName": "청량리"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K117",
+          "subwayStationName": "청량리"
+        }
+      ]
+    },
+    {
+      "역이름": "중랑",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2K119",
+          "subwayStationName": "중랑"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K119",
+          "subwayStationName": "중랑"
+        }
+      ]
+    },
+    {
+      "역이름": "상봉",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2K120",
+          "subwayStationName": "상봉"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K120",
+          "subwayStationName": "상봉"
+        }
+      ]
+    },
+    {
+      "역이름": "망우",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2K121",
+          "subwayStationName": "망우"
+        },
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K121",
+          "subwayStationName": "망우"
+        }
+      ]
+    },
+    {
+      "역이름": "신내",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P122",
+          "subwayStationName": "신내"
+        }
+      ]
+    },
+    {
+      "역이름": "갈매",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P123",
+          "subwayStationName": "갈매"
+        }
+      ]
+    },
+    {
+      "역이름": "별내(삼육대학교)",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P124",
+          "subwayStationName": "별내(삼육대학교)"
+        }
+      ]
+    },
+    {
+      "역이름": "퇴계원",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P125",
+          "subwayStationName": "퇴계원"
+        }
+      ]
+    },
+    {
+      "역이름": "사릉",
+      "stationList": [
+        {
+          "subwayRouteName": "경춘",
+          "subwayStationId": "MTRKRK2P126",
+          "subwayStationName": "사릉"
+        }
+      ]
+    },
+    {
+      "역이름": "능곡",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K321",
+          "subwayStationName": "능곡"
+        }
+      ]
+    },
+    {
+      "역이름": "행신",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K320",
+          "subwayStationName": "행신"
+        }
+      ]
+    },
+    {
+      "역이름": "강매",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K319",
+          "subwayStationName": "강매"
+        }
+      ]
+    },
+    {
+      "역이름": "화전(한국항공대)",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K318",
+          "subwayStationName": "화전(한국항공대)"
+        }
+      ]
+    },
+    {
+      "역이름": "수색",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K317",
+          "subwayStationName": "수색"
+        }
+      ]
+    },
+    {
+      "역이름": "가좌",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K315",
+          "subwayStationName": "가좌"
+        }
+      ]
+    },
+    {
+      "역이름": "서강대",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K313",
+          "subwayStationName": "서강대"
+        }
+      ]
+    },
+    {
+      "역이름": "효창공원앞",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K311",
+          "subwayStationName": "효창공원앞"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56627",
+          "subwayStationName": "효창공원앞"
+        }
+      ]
+    },
+    {
+      "역이름": "곡산",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K323",
+          "subwayStationName": "곡산"
+        }
+      ]
+    },
+    {
+      "역이름": "백마",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K324",
+          "subwayStationName": "백마"
+        }
+      ]
+    },
+    {
+      "역이름": "풍산",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K325",
+          "subwayStationName": "풍산"
+        }
+      ]
+    },
+    {
+      "역이름": "일산",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K326",
+          "subwayStationName": "일산"
+        }
+      ]
+    },
+    {
+      "역이름": "탄현",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K327",
+          "subwayStationName": "탄현"
+        }
+      ]
+    },
+    {
+      "역이름": "야당",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K328",
+          "subwayStationName": "야당"
+        }
+      ]
+    },
+    {
+      "역이름": "운정",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K329",
+          "subwayStationName": "운정"
+        }
+      ]
+    },
+    {
+      "역이름": "금릉",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K330",
+          "subwayStationName": "금릉"
+        }
+      ]
+    },
+    {
+      "역이름": "금촌",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K331",
+          "subwayStationName": "금촌"
+        }
+      ]
+    },
+    {
+      "역이름": "월롱(서영대학교)",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K333",
+          "subwayStationName": "월롱(서영대학교)"
+        }
+      ]
+    },
+    {
+      "역이름": "파주(두원대학)",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K334",
+          "subwayStationName": "파주(두원대학)"
+        }
+      ]
+    },
+    {
+      "역이름": "문산",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K335",
+          "subwayStationName": "문산"
+        }
+      ]
+    },
+    {
+      "역이름": "임진강",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K336",
+          "subwayStationName": "임진강"
+        }
+      ]
+    },
+    {
+      "역이름": "신촌",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4P314",
+          "subwayStationName": "신촌"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12240",
+          "subwayStationName": "신촌"
+        }
+      ]
+    },
+    {
+      "역이름": "지평",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K138",
+          "subwayStationName": "지평"
+        }
+      ]
+    },
+    {
+      "역이름": "이촌",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K111",
+          "subwayStationName": "이촌"
+        }
+      ]
+    },
+    {
+      "역이름": "서빙고",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K112",
+          "subwayStationName": "서빙고"
+        }
+      ]
+    },
+    {
+      "역이름": "한남",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K113",
+          "subwayStationName": "한남"
+        }
+      ]
+    },
+    {
+      "역이름": "옥수",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K114",
+          "subwayStationName": "옥수"
+        },
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13335",
+          "subwayStationName": "옥수"
+        }
+      ]
+    },
+    {
+      "역이름": "응봉",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K115",
+          "subwayStationName": "응봉"
+        }
+      ]
+    },
+    {
+      "역이름": "양원(서울시북부병원)",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K122",
+          "subwayStationName": "양원(서울시북부병원)"
+        }
+      ]
+    },
+    {
+      "역이름": "구리",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K123",
+          "subwayStationName": "구리"
+        }
+      ]
+    },
+    {
+      "역이름": "도농",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K124",
+          "subwayStationName": "도농"
+        }
+      ]
+    },
+    {
+      "역이름": "원덕(추읍산)",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K136",
+          "subwayStationName": "원덕(추읍산)"
+        }
+      ]
+    },
+    {
+      "역이름": "양평",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K135",
+          "subwayStationName": "양평"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55522",
+          "subwayStationName": "양평"
+        }
+      ]
+    },
+    {
+      "역이름": "오빈",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K134",
+          "subwayStationName": "오빈"
+        }
+      ]
+    },
+    {
+      "역이름": "아신(아세아연합신학대)",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K133",
+          "subwayStationName": "아신(아세아연합신학대)"
+        }
+      ]
+    },
+    {
+      "역이름": "국수",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K132",
+          "subwayStationName": "국수"
+        }
+      ]
+    },
+    {
+      "역이름": "신원",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K131",
+          "subwayStationName": "신원"
+        }
+      ]
+    },
+    {
+      "역이름": "양수",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K130",
+          "subwayStationName": "양수"
+        }
+      ]
+    },
+    {
+      "역이름": "운길산",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K129",
+          "subwayStationName": "운길산"
+        }
+      ]
+    },
+    {
+      "역이름": "팔당",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K128",
+          "subwayStationName": "팔당"
+        }
+      ]
+    },
+    {
+      "역이름": "도심",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K127",
+          "subwayStationName": "도심"
+        }
+      ]
+    },
+    {
+      "역이름": "덕소",
+      "stationList": [
+        {
+          "subwayRouteName": "경의중앙",
+          "subwayStationId": "MTRKRK4K126",
+          "subwayStationName": "덕소"
+        }
+      ]
+    },
+    {
+      "역이름": "여주",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K420",
+          "subwayStationName": "여주"
+        }
+      ]
+    },
+    {
+      "역이름": "세종대왕릉",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K419",
+          "subwayStationName": "세종대왕릉"
+        }
+      ]
+    },
+    {
+      "역이름": "부발",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K418",
+          "subwayStationName": "부발"
+        }
+      ]
+    },
+    {
+      "역이름": "이천",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K417",
+          "subwayStationName": "이천"
+        }
+      ]
+    },
+    {
+      "역이름": "신둔도예촌",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K416",
+          "subwayStationName": "신둔도예촌"
+        }
+      ]
+    },
+    {
+      "역이름": "곤지암",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K415",
+          "subwayStationName": "곤지암"
+        }
+      ]
+    },
+    {
+      "역이름": "초월",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K414",
+          "subwayStationName": "초월"
+        }
+      ]
+    },
+    {
+      "역이름": "경기광주",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K413",
+          "subwayStationName": "경기광주"
+        }
+      ]
+    },
+    {
+      "역이름": "삼동",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K412",
+          "subwayStationName": "삼동"
+        }
+      ]
+    },
+    {
+      "역이름": "이매",
+      "stationList": [
+        {
+          "subwayRouteName": "경강",
+          "subwayStationId": "MTRKRK5K411",
+          "subwayStationName": "이매"
+        }
+      ]
+    },
+    {
+      "역이름": "일광",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K124",
+          "subwayStationName": "일광"
+        }
+      ]
+    },
+    {
+      "역이름": "기장",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K123",
+          "subwayStationName": "기장"
+        }
+      ]
+    },
+    {
+      "역이름": "오시리아",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K122",
+          "subwayStationName": "오시리아"
+        }
+      ]
+    },
+    {
+      "역이름": "송정",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K121",
+          "subwayStationName": "송정"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55513",
+          "subwayStationName": "송정"
+        }
+      ]
+    },
+    {
+      "역이름": "신해운대",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K120",
+          "subwayStationName": "신해운대"
+        }
+      ]
+    },
+    {
+      "역이름": "벡스코",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K119",
+          "subwayStationName": "벡스코"
+        }
+      ]
+    },
+    {
+      "역이름": "센텀",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K118",
+          "subwayStationName": "센텀"
+        }
+      ]
+    },
+    {
+      "역이름": "재송",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K117",
+          "subwayStationName": "재송"
+        }
+      ]
+    },
+    {
+      "역이름": "부산원동",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K116",
+          "subwayStationName": "부산원동"
+        }
+      ]
+    },
+    {
+      "역이름": "안락",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K115",
+          "subwayStationName": "안락"
+        }
+      ]
+    },
+    {
+      "역이름": "거제해맞이",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K111",
+          "subwayStationName": "거제해맞이"
+        }
+      ]
+    },
+    {
+      "역이름": "부전",
+      "stationList": [
+        {
+          "subwayRouteName": "동해",
+          "subwayStationId": "MTRKRK6K110",
+          "subwayStationName": "부전"
+        }
+      ]
+    },
+    {
+      "역이름": "종각",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11131",
+          "subwayStationName": "종각"
+        }
+      ]
+    },
+    {
+      "역이름": "종로3가",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11130",
+          "subwayStationName": "종로3가"
+        },
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13329",
+          "subwayStationName": "종로3가"
+        }
+      ]
+    },
+    {
+      "역이름": "종로5가",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11129",
+          "subwayStationName": "종로5가"
+        }
+      ]
+    },
+    {
+      "역이름": "동대문",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11128",
+          "subwayStationName": "동대문"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14421",
+          "subwayStationName": "동대문"
+        }
+      ]
+    },
+    {
+      "역이름": "동묘앞",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11127",
+          "subwayStationName": "동묘앞"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56636",
+          "subwayStationName": "동묘앞"
+        }
+      ]
+    },
+    {
+      "역이름": "신설동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11126",
+          "subwayStationName": "신설동"
+        },
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12211-4",
+          "subwayStationName": "신설동"
+        },
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS122",
+          "subwayStationName": "신설동"
+        }
+      ]
+    },
+    {
+      "역이름": "제기동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11125",
+          "subwayStationName": "제기동"
+        }
+      ]
+    },
+    {
+      "역이름": "청량리(서울시립대입구)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 1호선",
+          "subwayStationId": "MTRS11124",
+          "subwayStationName": "청량리(서울시립대입구)"
+        }
+      ]
+    },
+    {
+      "역이름": "대림(구로구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12233",
+          "subwayStationName": "대림(구로구청)"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57744",
+          "subwayStationName": "대림(구로구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "구로디지털단지",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12232",
+          "subwayStationName": "구로디지털단지"
+        }
+      ]
+    },
+    {
+      "역이름": "신대방",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12231",
+          "subwayStationName": "신대방"
+        }
+      ]
+    },
+    {
+      "역이름": "신림",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12230",
+          "subwayStationName": "신림"
+        }
+      ]
+    },
+    {
+      "역이름": "봉천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12229",
+          "subwayStationName": "봉천"
+        }
+      ]
+    },
+    {
+      "역이름": "서울대입구(관악구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12228",
+          "subwayStationName": "서울대입구(관악구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "낙성대",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12227",
+          "subwayStationName": "낙성대"
+        }
+      ]
+    },
+    {
+      "역이름": "사당",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12226",
+          "subwayStationName": "사당"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14433",
+          "subwayStationName": "사당"
+        }
+      ]
+    },
+    {
+      "역이름": "방배",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12225",
+          "subwayStationName": "방배"
+        }
+      ]
+    },
+    {
+      "역이름": "서초",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12224",
+          "subwayStationName": "서초"
+        }
+      ]
+    },
+    {
+      "역이름": "도림천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12234-1",
+          "subwayStationName": "도림천"
+        }
+      ]
+    },
+    {
+      "역이름": "양천구청",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12234-2",
+          "subwayStationName": "양천구청"
+        }
+      ]
+    },
+    {
+      "역이름": "신정네거리",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12234-3",
+          "subwayStationName": "신정네거리"
+        }
+      ]
+    },
+    {
+      "역이름": "까치산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12234-4",
+          "subwayStationName": "까치산"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55518",
+          "subwayStationName": "까치산"
+        }
+      ]
+    },
+    {
+      "역이름": "문래",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12235",
+          "subwayStationName": "문래"
+        }
+      ]
+    },
+    {
+      "역이름": "영등포구청",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12236",
+          "subwayStationName": "영등포구청"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55523",
+          "subwayStationName": "영등포구청"
+        }
+      ]
+    },
+    {
+      "역이름": "당산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12237",
+          "subwayStationName": "당산"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99913",
+          "subwayStationName": "당산"
+        }
+      ]
+    },
+    {
+      "역이름": "합정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12238",
+          "subwayStationName": "합정"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56622",
+          "subwayStationName": "합정"
+        }
+      ]
+    },
+    {
+      "역이름": "이대",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12241",
+          "subwayStationName": "이대"
+        }
+      ]
+    },
+    {
+      "역이름": "아현",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12242",
+          "subwayStationName": "아현"
+        }
+      ]
+    },
+    {
+      "역이름": "충정로(경기대입구)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12243",
+          "subwayStationName": "충정로(경기대입구)"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55531",
+          "subwayStationName": "충정로(경기대입구)"
+        }
+      ]
+    },
+    {
+      "역이름": "교대(법원·검찰청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12223",
+          "subwayStationName": "교대(법원·검찰청)"
+        },
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13340",
+          "subwayStationName": "교대(법원·검찰청)"
+        }
+      ]
+    },
+    {
+      "역이름": "역삼",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12221",
+          "subwayStationName": "역삼"
+        }
+      ]
+    },
+    {
+      "역이름": "을지로입구",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12202",
+          "subwayStationName": "을지로입구"
+        }
+      ]
+    },
+    {
+      "역이름": "을지로3가",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12203",
+          "subwayStationName": "을지로3가"
+        },
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13330",
+          "subwayStationName": "을지로3가"
+        }
+      ]
+    },
+    {
+      "역이름": "을지로4가",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12204",
+          "subwayStationName": "을지로4가"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55535",
+          "subwayStationName": "을지로4가"
+        }
+      ]
+    },
+    {
+      "역이름": "동대문역사문화공원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12205",
+          "subwayStationName": "동대문역사문화공원"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14422",
+          "subwayStationName": "동대문역사문화공원"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55536",
+          "subwayStationName": "동대문역사문화공원"
+        }
+      ]
+    },
+    {
+      "역이름": "신당",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12206",
+          "subwayStationName": "신당"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56635",
+          "subwayStationName": "신당"
+        }
+      ]
+    },
+    {
+      "역이름": "상왕십리",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12207",
+          "subwayStationName": "상왕십리"
+        }
+      ]
+    },
+    {
+      "역이름": "한양대",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12209",
+          "subwayStationName": "한양대"
+        }
+      ]
+    },
+    {
+      "역이름": "뚝섬",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12210",
+          "subwayStationName": "뚝섬"
+        }
+      ]
+    },
+    {
+      "역이름": "성수",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12211",
+          "subwayStationName": "성수"
+        }
+      ]
+    },
+    {
+      "역이름": "용답",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12211-1",
+          "subwayStationName": "용답"
+        }
+      ]
+    },
+    {
+      "역이름": "신답",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12211-2",
+          "subwayStationName": "신답"
+        }
+      ]
+    },
+    {
+      "역이름": "삼성(무역센터)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12219",
+          "subwayStationName": "삼성(무역센터)"
+        }
+      ]
+    },
+    {
+      "역이름": "잠실새내",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12217",
+          "subwayStationName": "잠실새내"
+        }
+      ]
+    },
+    {
+      "역이름": "잠실(송파구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12216",
+          "subwayStationName": "잠실(송파구청)"
+        },
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58814",
+          "subwayStationName": "잠실(송파구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "잠실나루",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12215",
+          "subwayStationName": "잠실나루"
+        }
+      ]
+    },
+    {
+      "역이름": "강변(동서울터미널)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12214",
+          "subwayStationName": "강변(동서울터미널)"
+        }
+      ]
+    },
+    {
+      "역이름": "구의(광진구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12213",
+          "subwayStationName": "구의(광진구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "건대입구",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12212",
+          "subwayStationName": "건대입구"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57727",
+          "subwayStationName": "건대입구"
+        }
+      ]
+    },
+    {
+      "역이름": "용두(동대문구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 2호선",
+          "subwayStationId": "MTRS12211-3",
+          "subwayStationName": "용두(동대문구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "신사",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13337",
+          "subwayStationName": "신사"
+        }
+      ]
+    },
+    {
+      "역이름": "잠원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13338",
+          "subwayStationName": "잠원"
+        }
+      ]
+    },
+    {
+      "역이름": "고속터미널",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13339",
+          "subwayStationName": "고속터미널"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57734",
+          "subwayStationName": "고속터미널"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99923",
+          "subwayStationName": "고속터미널"
+        }
+      ]
+    },
+    {
+      "역이름": "남부터미널(예술의전당)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13341",
+          "subwayStationName": "남부터미널(예술의전당)"
+        }
+      ]
+    },
+    {
+      "역이름": "매봉",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13343",
+          "subwayStationName": "매봉"
+        }
+      ]
+    },
+    {
+      "역이름": "대치",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13345",
+          "subwayStationName": "대치"
+        }
+      ]
+    },
+    {
+      "역이름": "학여울",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13346",
+          "subwayStationName": "학여울"
+        }
+      ]
+    },
+    {
+      "역이름": "대청",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13347",
+          "subwayStationName": "대청"
+        }
+      ]
+    },
+    {
+      "역이름": "일원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13348",
+          "subwayStationName": "일원"
+        }
+      ]
+    },
+    {
+      "역이름": "가락시장",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13350",
+          "subwayStationName": "가락시장"
+        },
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58817",
+          "subwayStationName": "가락시장"
+        }
+      ]
+    },
+    {
+      "역이름": "경찰병원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13351",
+          "subwayStationName": "경찰병원"
+        }
+      ]
+    },
+    {
+      "역이름": "오금",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13352",
+          "subwayStationName": "오금"
+        },
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55P552",
+          "subwayStationName": "오금"
+        }
+      ]
+    },
+    {
+      "역이름": "압구정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13336",
+          "subwayStationName": "압구정"
+        }
+      ]
+    },
+    {
+      "역이름": "지축",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13319",
+          "subwayStationName": "지축"
+        }
+      ]
+    },
+    {
+      "역이름": "구파발",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13320",
+          "subwayStationName": "구파발"
+        }
+      ]
+    },
+    {
+      "역이름": "연신내",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13321",
+          "subwayStationName": "연신내"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56614",
+          "subwayStationName": "연신내"
+        }
+      ]
+    },
+    {
+      "역이름": "불광",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13322",
+          "subwayStationName": "불광"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56612",
+          "subwayStationName": "불광"
+        }
+      ]
+    },
+    {
+      "역이름": "녹번",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13323",
+          "subwayStationName": "녹번"
+        }
+      ]
+    },
+    {
+      "역이름": "홍제",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13324",
+          "subwayStationName": "홍제"
+        }
+      ]
+    },
+    {
+      "역이름": "무악재",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13325",
+          "subwayStationName": "무악재"
+        }
+      ]
+    },
+    {
+      "역이름": "독립문",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13326",
+          "subwayStationName": "독립문"
+        }
+      ]
+    },
+    {
+      "역이름": "경복궁(정부서울청사)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13327",
+          "subwayStationName": "경복궁(정부서울청사)"
+        }
+      ]
+    },
+    {
+      "역이름": "안국",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13328",
+          "subwayStationName": "안국"
+        }
+      ]
+    },
+    {
+      "역이름": "충무로",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13331",
+          "subwayStationName": "충무로"
+        },
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14423",
+          "subwayStationName": "충무로"
+        }
+      ]
+    },
+    {
+      "역이름": "동대입구",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13332",
+          "subwayStationName": "동대입구"
+        }
+      ]
+    },
+    {
+      "역이름": "약수",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13333",
+          "subwayStationName": "약수"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56633",
+          "subwayStationName": "약수"
+        }
+      ]
+    },
+    {
+      "역이름": "금호",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 3호선",
+          "subwayStationId": "MTRS13334",
+          "subwayStationName": "금호"
+        }
+      ]
+    },
+    {
+      "역이름": "명동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14424",
+          "subwayStationName": "명동"
+        }
+      ]
+    },
+    {
+      "역이름": "회현(남대문시장)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14425",
+          "subwayStationName": "회현(남대문시장)"
+        }
+      ]
+    },
+    {
+      "역이름": "숙대입구(갈월)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14427",
+          "subwayStationName": "숙대입구(갈월)"
+        }
+      ]
+    },
+    {
+      "역이름": "삼각지",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14428",
+          "subwayStationName": "삼각지"
+        },
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56628",
+          "subwayStationName": "삼각지"
+        }
+      ]
+    },
+    {
+      "역이름": "신용산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14429",
+          "subwayStationName": "신용산"
+        }
+      ]
+    },
+    {
+      "역이름": "이촌(국립중앙박물관)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14430",
+          "subwayStationName": "이촌(국립중앙박물관)"
+        }
+      ]
+    },
+    {
+      "역이름": "동작(현충원)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14431",
+          "subwayStationName": "동작(현충원)"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99920",
+          "subwayStationName": "동작(현충원)"
+        }
+      ]
+    },
+    {
+      "역이름": "총신대입구(이수)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14432",
+          "subwayStationName": "총신대입구(이수)"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57736",
+          "subwayStationName": "총신대입구(이수)"
+        }
+      ]
+    },
+    {
+      "역이름": "남태령",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14434",
+          "subwayStationName": "남태령"
+        }
+      ]
+    },
+    {
+      "역이름": "당고개",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14409",
+          "subwayStationName": "당고개"
+        }
+      ]
+    },
+    {
+      "역이름": "상계",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14410",
+          "subwayStationName": "상계"
+        }
+      ]
+    },
+    {
+      "역이름": "노원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14411",
+          "subwayStationName": "노원"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57713",
+          "subwayStationName": "노원"
+        }
+      ]
+    },
+    {
+      "역이름": "쌍문",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14413",
+          "subwayStationName": "쌍문"
+        }
+      ]
+    },
+    {
+      "역이름": "수유(강북구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14414",
+          "subwayStationName": "수유(강북구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "미아",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14415",
+          "subwayStationName": "미아"
+        }
+      ]
+    },
+    {
+      "역이름": "미아사거리",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14416",
+          "subwayStationName": "미아사거리"
+        }
+      ]
+    },
+    {
+      "역이름": "길음",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14417",
+          "subwayStationName": "길음"
+        }
+      ]
+    },
+    {
+      "역이름": "성신여대입구(돈암)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14418",
+          "subwayStationName": "성신여대입구(돈암)"
+        }
+      ]
+    },
+    {
+      "역이름": "한성대입구(삼선교)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14419",
+          "subwayStationName": "한성대입구(삼선교)"
+        }
+      ]
+    },
+    {
+      "역이름": "혜화",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 4호선",
+          "subwayStationId": "MTRS14420",
+          "subwayStationName": "혜화"
+        }
+      ]
+    },
+    {
+      "역이름": "천호(풍납토성)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55547",
+          "subwayStationName": "천호(풍납토성)"
+        }
+      ]
+    },
+    {
+      "역이름": "광나루(장신대)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55546",
+          "subwayStationName": "광나루(장신대)"
+        }
+      ]
+    },
+    {
+      "역이름": "아차산(어린이대공원후문)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55545",
+          "subwayStationName": "아차산(어린이대공원후문)"
+        }
+      ]
+    },
+    {
+      "역이름": "군자(능동)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55544",
+          "subwayStationName": "군자(능동)"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57725",
+          "subwayStationName": "군자(능동)"
+        }
+      ]
+    },
+    {
+      "역이름": "장한평",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55543",
+          "subwayStationName": "장한평"
+        }
+      ]
+    },
+    {
+      "역이름": "답십리",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55542",
+          "subwayStationName": "답십리"
+        }
+      ]
+    },
+    {
+      "역이름": "마장",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55541",
+          "subwayStationName": "마장"
+        }
+      ]
+    },
+    {
+      "역이름": "행당",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55539",
+          "subwayStationName": "행당"
+        }
+      ]
+    },
+    {
+      "역이름": "신금호",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55538",
+          "subwayStationName": "신금호"
+        }
+      ]
+    },
+    {
+      "역이름": "청구",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55537",
+          "subwayStationName": "청구"
+        }
+      ]
+    },
+    {
+      "역이름": "강동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55548",
+          "subwayStationName": "강동"
+        }
+      ]
+    },
+    {
+      "역이름": "길동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55549",
+          "subwayStationName": "길동"
+        }
+      ]
+    },
+    {
+      "역이름": "굽은다리(강동구민회관앞)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55550",
+          "subwayStationName": "굽은다리(강동구민회관앞)"
+        }
+      ]
+    },
+    {
+      "역이름": "명일",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55551",
+          "subwayStationName": "명일"
+        }
+      ]
+    },
+    {
+      "역이름": "고덕",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55552",
+          "subwayStationName": "고덕"
+        }
+      ]
+    },
+    {
+      "역이름": "상일동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55553",
+          "subwayStationName": "상일동"
+        }
+      ]
+    },
+    {
+      "역이름": "둔촌동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55P549",
+          "subwayStationName": "둔촌동"
+        }
+      ]
+    },
+    {
+      "역이름": "올림픽공원(한국체대)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55P550",
+          "subwayStationName": "올림픽공원(한국체대)"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99936",
+          "subwayStationName": "올림픽공원(한국체대)"
+        }
+      ]
+    },
+    {
+      "역이름": "방이",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55P551",
+          "subwayStationName": "방이"
+        }
+      ]
+    },
+    {
+      "역이름": "개롱",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55P553",
+          "subwayStationName": "개롱"
+        }
+      ]
+    },
+    {
+      "역이름": "거여",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55P554",
+          "subwayStationName": "거여"
+        }
+      ]
+    },
+    {
+      "역이름": "마천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55P555",
+          "subwayStationName": "마천"
+        }
+      ]
+    },
+    {
+      "역이름": "종로3가(탑골공원)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55534",
+          "subwayStationName": "종로3가(탑골공원)"
+        }
+      ]
+    },
+    {
+      "역이름": "방화",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55510",
+          "subwayStationName": "방화"
+        }
+      ]
+    },
+    {
+      "역이름": "개화산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55511",
+          "subwayStationName": "개화산"
+        }
+      ]
+    },
+    {
+      "역이름": "마곡",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55514",
+          "subwayStationName": "마곡"
+        }
+      ]
+    },
+    {
+      "역이름": "발산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55515",
+          "subwayStationName": "발산"
+        }
+      ]
+    },
+    {
+      "역이름": "우장산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55516",
+          "subwayStationName": "우장산"
+        }
+      ]
+    },
+    {
+      "역이름": "화곡",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55517",
+          "subwayStationName": "화곡"
+        }
+      ]
+    },
+    {
+      "역이름": "신정(은행정)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55519",
+          "subwayStationName": "신정(은행정)"
+        }
+      ]
+    },
+    {
+      "역이름": "목동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55520",
+          "subwayStationName": "목동"
+        }
+      ]
+    },
+    {
+      "역이름": "오목교(목동운동장앞)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55521",
+          "subwayStationName": "오목교(목동운동장앞)"
+        }
+      ]
+    },
+    {
+      "역이름": "광화문(세종문화회관)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55533",
+          "subwayStationName": "광화문(세종문화회관)"
+        }
+      ]
+    },
+    {
+      "역이름": "서대문",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55532",
+          "subwayStationName": "서대문"
+        }
+      ]
+    },
+    {
+      "역이름": "애오개",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55530",
+          "subwayStationName": "애오개"
+        }
+      ]
+    },
+    {
+      "역이름": "마포",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55528",
+          "subwayStationName": "마포"
+        }
+      ]
+    },
+    {
+      "역이름": "여의나루",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55527",
+          "subwayStationName": "여의나루"
+        }
+      ]
+    },
+    {
+      "역이름": "여의도",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55526",
+          "subwayStationName": "여의도"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99915",
+          "subwayStationName": "여의도"
+        }
+      ]
+    },
+    {
+      "역이름": "영등포시장",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 5호선",
+          "subwayStationId": "MTRS55524",
+          "subwayStationName": "영등포시장"
+        }
+      ]
+    },
+    {
+      "역이름": "이태원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56630",
+          "subwayStationName": "이태원"
+        }
+      ]
+    },
+    {
+      "역이름": "한강진",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56631",
+          "subwayStationName": "한강진"
+        }
+      ]
+    },
+    {
+      "역이름": "버티고개",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56632",
+          "subwayStationName": "버티고개"
+        }
+      ]
+    },
+    {
+      "역이름": "창신",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56637",
+          "subwayStationName": "창신"
+        }
+      ]
+    },
+    {
+      "역이름": "보문",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56638",
+          "subwayStationName": "보문"
+        },
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS121",
+          "subwayStationName": "보문"
+        }
+      ]
+    },
+    {
+      "역이름": "안암(고대병원앞)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56639",
+          "subwayStationName": "안암(고대병원앞)"
+        }
+      ]
+    },
+    {
+      "역이름": "고려대(종암)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56640",
+          "subwayStationName": "고려대(종암)"
+        }
+      ]
+    },
+    {
+      "역이름": "월곡(동덕여대)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56641",
+          "subwayStationName": "월곡(동덕여대)"
+        }
+      ]
+    },
+    {
+      "역이름": "상월곡(한국과학기술연구원)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56642",
+          "subwayStationName": "상월곡(한국과학기술연구원)"
+        }
+      ]
+    },
+    {
+      "역이름": "돌곶이",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56643",
+          "subwayStationName": "돌곶이"
+        }
+      ]
+    },
+    {
+      "역이름": "태릉입구",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56645",
+          "subwayStationName": "태릉입구"
+        },
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57717",
+          "subwayStationName": "태릉입구"
+        }
+      ]
+    },
+    {
+      "역이름": "화랑대(서울여대입구)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56646",
+          "subwayStationName": "화랑대(서울여대입구)"
+        }
+      ]
+    },
+    {
+      "역이름": "봉화산(서울의료원)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56647",
+          "subwayStationName": "봉화산(서울의료원)"
+        }
+      ]
+    },
+    {
+      "역이름": "녹사평(용산구청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56629",
+          "subwayStationName": "녹사평(용산구청)"
+        }
+      ]
+    },
+    {
+      "역이름": "응암",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56610",
+          "subwayStationName": "응암"
+        }
+      ]
+    },
+    {
+      "역이름": "역촌",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56611",
+          "subwayStationName": "역촌"
+        }
+      ]
+    },
+    {
+      "역이름": "독바위",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56613",
+          "subwayStationName": "독바위"
+        }
+      ]
+    },
+    {
+      "역이름": "구산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56615",
+          "subwayStationName": "구산"
+        }
+      ]
+    },
+    {
+      "역이름": "새절(신사)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56616",
+          "subwayStationName": "새절(신사)"
+        }
+      ]
+    },
+    {
+      "역이름": "증산(명지대앞)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56617",
+          "subwayStationName": "증산(명지대앞)"
+        }
+      ]
+    },
+    {
+      "역이름": "월드컵경기장(성산)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56619",
+          "subwayStationName": "월드컵경기장(성산)"
+        }
+      ]
+    },
+    {
+      "역이름": "마포구청",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56620",
+          "subwayStationName": "마포구청"
+        }
+      ]
+    },
+    {
+      "역이름": "망원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56621",
+          "subwayStationName": "망원"
+        }
+      ]
+    },
+    {
+      "역이름": "상수",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56623",
+          "subwayStationName": "상수"
+        }
+      ]
+    },
+    {
+      "역이름": "광흥창(서강)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56624",
+          "subwayStationName": "광흥창(서강)"
+        }
+      ]
+    },
+    {
+      "역이름": "대흥(서강대앞)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 6호선",
+          "subwayStationId": "MTRS56625",
+          "subwayStationName": "대흥(서강대앞)"
+        }
+      ]
+    },
+    {
+      "역이름": "남구로",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57745",
+          "subwayStationName": "남구로"
+        }
+      ]
+    },
+    {
+      "역이름": "신풍",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57743",
+          "subwayStationName": "신풍"
+        }
+      ]
+    },
+    {
+      "역이름": "보라매",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57742",
+          "subwayStationName": "보라매"
+        }
+      ]
+    },
+    {
+      "역이름": "신대방삼거리",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57741",
+          "subwayStationName": "신대방삼거리"
+        }
+      ]
+    },
+    {
+      "역이름": "장승배기",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57740",
+          "subwayStationName": "장승배기"
+        }
+      ]
+    },
+    {
+      "역이름": "상도",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57739",
+          "subwayStationName": "상도"
+        }
+      ]
+    },
+    {
+      "역이름": "숭실대입구(살피재)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57738",
+          "subwayStationName": "숭실대입구(살피재)"
+        }
+      ]
+    },
+    {
+      "역이름": "남성",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57737",
+          "subwayStationName": "남성"
+        }
+      ]
+    },
+    {
+      "역이름": "철산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57747",
+          "subwayStationName": "철산"
+        }
+      ]
+    },
+    {
+      "역이름": "광명사거리",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57748",
+          "subwayStationName": "광명사거리"
+        }
+      ]
+    },
+    {
+      "역이름": "천왕",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57749",
+          "subwayStationName": "천왕"
+        }
+      ]
+    },
+    {
+      "역이름": "온수(성공회대입구)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57750",
+          "subwayStationName": "온수(성공회대입구)"
+        }
+      ]
+    },
+    {
+      "역이름": "까치울",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57751",
+          "subwayStationName": "까치울"
+        }
+      ]
+    },
+    {
+      "역이름": "부천종합운동장",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57752",
+          "subwayStationName": "부천종합운동장"
+        }
+      ]
+    },
+    {
+      "역이름": "춘의",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57753",
+          "subwayStationName": "춘의"
+        }
+      ]
+    },
+    {
+      "역이름": "신중동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57754",
+          "subwayStationName": "신중동"
+        }
+      ]
+    },
+    {
+      "역이름": "부천시청",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57755",
+          "subwayStationName": "부천시청"
+        }
+      ]
+    },
+    {
+      "역이름": "상동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57756",
+          "subwayStationName": "상동"
+        }
+      ]
+    },
+    {
+      "역이름": "삼산체육관",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57757",
+          "subwayStationName": "삼산체육관"
+        }
+      ]
+    },
+    {
+      "역이름": "굴포천",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57758",
+          "subwayStationName": "굴포천"
+        }
+      ]
+    },
+    {
+      "역이름": "내방",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57735",
+          "subwayStationName": "내방"
+        }
+      ]
+    },
+    {
+      "역이름": "반포",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57733",
+          "subwayStationName": "반포"
+        }
+      ]
+    },
+    {
+      "역이름": "장암",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57709",
+          "subwayStationName": "장암"
+        }
+      ]
+    },
+    {
+      "역이름": "수락산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57711",
+          "subwayStationName": "수락산"
+        }
+      ]
+    },
+    {
+      "역이름": "마들",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57712",
+          "subwayStationName": "마들"
+        }
+      ]
+    },
+    {
+      "역이름": "중계",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57714",
+          "subwayStationName": "중계"
+        }
+      ]
+    },
+    {
+      "역이름": "하계",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57715",
+          "subwayStationName": "하계"
+        }
+      ]
+    },
+    {
+      "역이름": "공릉(서울과학기술대)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57716",
+          "subwayStationName": "공릉(서울과학기술대)"
+        }
+      ]
+    },
+    {
+      "역이름": "먹골",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57718",
+          "subwayStationName": "먹골"
+        }
+      ]
+    },
+    {
+      "역이름": "중화",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57719",
+          "subwayStationName": "중화"
+        }
+      ]
+    },
+    {
+      "역이름": "상봉(시외버스터미널)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57720",
+          "subwayStationName": "상봉(시외버스터미널)"
+        }
+      ]
+    },
+    {
+      "역이름": "면목",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57721",
+          "subwayStationName": "면목"
+        }
+      ]
+    },
+    {
+      "역이름": "논현",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57732",
+          "subwayStationName": "논현"
+        }
+      ]
+    },
+    {
+      "역이름": "학동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57731",
+          "subwayStationName": "학동"
+        }
+      ]
+    },
+    {
+      "역이름": "청담",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57729",
+          "subwayStationName": "청담"
+        }
+      ]
+    },
+    {
+      "역이름": "뚝섬유원지",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57728",
+          "subwayStationName": "뚝섬유원지"
+        }
+      ]
+    },
+    {
+      "역이름": "어린이대공원(세종대)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57726",
+          "subwayStationName": "어린이대공원(세종대)"
+        }
+      ]
+    },
+    {
+      "역이름": "중곡",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57724",
+          "subwayStationName": "중곡"
+        }
+      ]
+    },
+    {
+      "역이름": "용마산",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57723",
+          "subwayStationName": "용마산"
+        }
+      ]
+    },
+    {
+      "역이름": "사가정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 7호선",
+          "subwayStationId": "MTRS57722",
+          "subwayStationName": "사가정"
+        }
+      ]
+    },
+    {
+      "역이름": "수진",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58825",
+          "subwayStationName": "수진"
+        }
+      ]
+    },
+    {
+      "역이름": "단대오거리",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58823",
+          "subwayStationName": "단대오거리"
+        }
+      ]
+    },
+    {
+      "역이름": "남한산성입구(성남법원·검찰청)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58822",
+          "subwayStationName": "남한산성입구(성남법원·검찰청)"
+        }
+      ]
+    },
+    {
+      "역이름": "산성",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58821",
+          "subwayStationName": "산성"
+        }
+      ]
+    },
+    {
+      "역이름": "복정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58820",
+          "subwayStationName": "복정"
+        }
+      ]
+    },
+    {
+      "역이름": "장지",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58819",
+          "subwayStationName": "장지"
+        }
+      ]
+    },
+    {
+      "역이름": "문정",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58818",
+          "subwayStationName": "문정"
+        }
+      ]
+    },
+    {
+      "역이름": "송파",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58816",
+          "subwayStationName": "송파"
+        }
+      ]
+    },
+    {
+      "역이름": "석촌",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58815",
+          "subwayStationName": "석촌"
+        },
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99933",
+          "subwayStationName": "석촌"
+        }
+      ]
+    },
+    {
+      "역이름": "몽촌토성(평화의문)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58813",
+          "subwayStationName": "몽촌토성(평화의문)"
+        }
+      ]
+    },
+    {
+      "역이름": "강동구청",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58812",
+          "subwayStationName": "강동구청"
+        }
+      ]
+    },
+    {
+      "역이름": "암사",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 8호선",
+          "subwayStationId": "MTRS58810",
+          "subwayStationName": "암사"
+        }
+      ]
+    },
+    {
+      "역이름": "삼성중앙",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99928",
+          "subwayStationName": "삼성중앙"
+        }
+      ]
+    },
+    {
+      "역이름": "선정릉",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99927",
+          "subwayStationName": "선정릉"
+        }
+      ]
+    },
+    {
+      "역이름": "언주",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99926",
+          "subwayStationName": "언주"
+        }
+      ]
+    },
+    {
+      "역이름": "신논현",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99925",
+          "subwayStationName": "신논현"
+        }
+      ]
+    },
+    {
+      "역이름": "사평",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99924",
+          "subwayStationName": "사평"
+        }
+      ]
+    },
+    {
+      "역이름": "신반포",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99922",
+          "subwayStationName": "신반포"
+        }
+      ]
+    },
+    {
+      "역이름": "구반포",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99921",
+          "subwayStationName": "구반포"
+        }
+      ]
+    },
+    {
+      "역이름": "봉은사",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99929",
+          "subwayStationName": "봉은사"
+        }
+      ]
+    },
+    {
+      "역이름": "삼전",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99931",
+          "subwayStationName": "삼전"
+        }
+      ]
+    },
+    {
+      "역이름": "석촌고분",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99932",
+          "subwayStationName": "석촌고분"
+        }
+      ]
+    },
+    {
+      "역이름": "송파나루",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99934",
+          "subwayStationName": "송파나루"
+        }
+      ]
+    },
+    {
+      "역이름": "한성백제",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99935",
+          "subwayStationName": "한성백제"
+        }
+      ]
+    },
+    {
+      "역이름": "둔촌오륜",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99937",
+          "subwayStationName": "둔촌오륜"
+        }
+      ]
+    },
+    {
+      "역이름": "중앙보훈병원",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99938",
+          "subwayStationName": "중앙보훈병원"
+        }
+      ]
+    },
+    {
+      "역이름": "흑석(중앙대입구)",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99919",
+          "subwayStationName": "흑석(중앙대입구)"
+        }
+      ]
+    },
+    {
+      "역이름": "개화",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99901",
+          "subwayStationName": "개화"
+        }
+      ]
+    },
+    {
+      "역이름": "공항시장",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99903",
+          "subwayStationName": "공항시장"
+        }
+      ]
+    },
+    {
+      "역이름": "신방화",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99904",
+          "subwayStationName": "신방화"
+        }
+      ]
+    },
+    {
+      "역이름": "마곡나루",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99905",
+          "subwayStationName": "마곡나루"
+        }
+      ]
+    },
+    {
+      "역이름": "양천향교",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99906",
+          "subwayStationName": "양천향교"
+        }
+      ]
+    },
+    {
+      "역이름": "가양",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99907",
+          "subwayStationName": "가양"
+        }
+      ]
+    },
+    {
+      "역이름": "증미",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99908",
+          "subwayStationName": "증미"
+        }
+      ]
+    },
+    {
+      "역이름": "등촌",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99909",
+          "subwayStationName": "등촌"
+        }
+      ]
+    },
+    {
+      "역이름": "염창",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99910",
+          "subwayStationName": "염창"
+        }
+      ]
+    },
+    {
+      "역이름": "신목동",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99911",
+          "subwayStationName": "신목동"
+        }
+      ]
+    },
+    {
+      "역이름": "선유도",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99912",
+          "subwayStationName": "선유도"
+        }
+      ]
+    },
+    {
+      "역이름": "국회의사당",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99914",
+          "subwayStationName": "국회의사당"
+        }
+      ]
+    },
+    {
+      "역이름": "샛강",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99916",
+          "subwayStationName": "샛강"
+        }
+      ]
+    },
+    {
+      "역이름": "노들",
+      "stationList": [
+        {
+          "subwayRouteName": "서울 9호선",
+          "subwayStationId": "MTRS99918",
+          "subwayStationName": "노들"
+        }
+      ]
+    },
+    {
+      "역이름": "성신여대입구",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS120",
+          "subwayStationName": "성신여대입구"
+        }
+      ]
+    },
+    {
+      "역이름": "정릉",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS119",
+          "subwayStationName": "정릉"
+        }
+      ]
+    },
+    {
+      "역이름": "북한산보국문",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS118",
+          "subwayStationName": "북한산보국문"
+        }
+      ]
+    },
+    {
+      "역이름": "솔샘",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS117",
+          "subwayStationName": "솔샘"
+        }
+      ]
+    },
+    {
+      "역이름": "삼양사거리",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS116",
+          "subwayStationName": "삼양사거리"
+        }
+      ]
+    },
+    {
+      "역이름": "삼양",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS115",
+          "subwayStationName": "삼양"
+        }
+      ]
+    },
+    {
+      "역이름": "화계",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS114",
+          "subwayStationName": "화계"
+        }
+      ]
+    },
+    {
+      "역이름": "가오리",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS113",
+          "subwayStationName": "가오리"
+        }
+      ]
+    },
+    {
+      "역이름": "4.19민주묘지",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS112",
+          "subwayStationName": "4.19민주묘지"
+        }
+      ]
+    },
+    {
+      "역이름": "솔밭공원",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS111",
+          "subwayStationName": "솔밭공원"
+        }
+      ]
+    },
+    {
+      "역이름": "북한산우이",
+      "stationList": [
+        {
+          "subwayRouteName": "우이신설",
+          "subwayStationId": "MTRUIUIS110",
+          "subwayStationName": "북한산우이"
+        }
+      ]
+    },
+    {
+      "역이름": "송산",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U124",
+          "subwayStationName": "송산"
+        }
+      ]
+    },
+    {
+      "역이름": "어룡(용현산업단지)",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U123",
+          "subwayStationName": "어룡(용현산업단지)"
+        }
+      ]
+    },
+    {
+      "역이름": "곤제",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U122",
+          "subwayStationName": "곤제"
+        }
+      ]
+    },
+    {
+      "역이름": "효자",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U121",
+          "subwayStationName": "효자"
+        }
+      ]
+    },
+    {
+      "역이름": "경기도청북부청사",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U120",
+          "subwayStationName": "경기도청북부청사"
+        }
+      ]
+    },
+    {
+      "역이름": "새말",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U119",
+          "subwayStationName": "새말"
+        }
+      ]
+    },
+    {
+      "역이름": "동오",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U118",
+          "subwayStationName": "동오"
+        }
+      ]
+    },
+    {
+      "역이름": "의정부중앙",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U117",
+          "subwayStationName": "의정부중앙"
+        }
+      ]
+    },
+    {
+      "역이름": "흥선",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U115",
+          "subwayStationName": "흥선"
+        }
+      ]
+    },
+    {
+      "역이름": "의정부시청",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U114",
+          "subwayStationName": "의정부시청"
+        }
+      ]
+    },
+    {
+      "역이름": "경전철의정부",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U113",
+          "subwayStationName": "경전철의정부"
+        }
+      ]
+    },
+    {
+      "역이름": "범골",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U112",
+          "subwayStationName": "범골"
+        }
+      ]
+    },
+    {
+      "역이름": "발곡",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U110",
+          "subwayStationName": "발곡"
+        }
+      ]
+    },
+    {
+      "역이름": "탑석",
+      "stationList": [
+        {
+          "subwayRouteName": "의정부",
+          "subwayStationId": "MTRULU1U125",
+          "subwayStationName": "탑석"
+        }
+      ]
+    }
+  ]
+}
