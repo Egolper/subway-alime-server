@@ -1,6 +1,10 @@
 import moment from "moment-timezone";
 import { DailyTypeCodeType } from "./TypeMapper";
 
+export const getYMD = () => {
+  return moment.tz("Asia/Seoul").format("YYYY.MM.DD");
+};
+
 export const getTodayDailyType = (): DailyTypeCodeType => {
   const day = moment.tz("Asia/Seoul").day();
 

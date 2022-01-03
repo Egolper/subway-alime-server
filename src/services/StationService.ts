@@ -11,6 +11,7 @@ import { TimeTableService } from ".";
 import { StationModel } from "../models";
 import {
   getTodayDailyType,
+  getYMD,
   subwayRouteMapper,
   upDownTypeCodeList,
 } from "../utils";
@@ -20,8 +21,15 @@ export const findAll = () => {
   return StationModel.find();
 };
 
-export const findStation = ({ name }: { name: string }) => {
-  return StationModel.findOne({ name });
+export const findStation = async ({
+  요일 = getYMD(),
+  이름,
+}: {
+  요일?: string;
+  이름: string;
+}) => {
+  const result = await StationModel.findOne({ 요일 });
+  return result;
 };
 
 export const createStation = async () => {
@@ -61,9 +69,10 @@ export const collect호선 = async ({
       subwayStationId,
       dailyTypeCode,
       upDownTypeCode,
+      numOfRows: 1000,
     });
     if (!response?.body?.items) {
-      throw new Error(response.header.resultMsg);
+      throw new Error(response.header.resultCode + response.header.resultMsg);
     }
 
     const timeTableList = response.body.items.item;
@@ -72,6 +81,8 @@ export const collect호선 = async ({
 
   return { 전철역_ID: subwayStationId, 호선이름, 시간표_리스트 };
 };
+
+/* ----------------  ---------------- */
 
 export const collect전철역 = async ({
   역이름,
@@ -90,29 +101,31 @@ export const collect전철역 = async ({
   return { 역이름, 호선_리스트 };
 };
 
+/* ----------------  ---------------- */
+
 export const collect지하철공공데이터 = async () => {
   console.log(`$$ 지하철 공공데이터 수집 시작`);
 
   const { response } = await getStations({ numOfRows: 1000 });
-  const stationList = response.body.items.item;
+  const stationList = transferStationList(response.body.items.item);
 
   console.log(`$$ 총 ${stationList.length}개의 역 데이터`);
 
   const 전철역_리스트: I전철역[] = [];
 
   try {
-    for (const station of transferStationList(stationList)) {
+    for (const station of stationList) {
       const 전철역 = await collect전철역(station);
       console.log(`$$ ${전철역.역이름} 역 완료`);
       전철역_리스트.push(전철역);
     }
   } catch (e) {
-    console.log(e);
+    throw e;
   }
 
   console.log(`$$ 총 ${전철역_리스트.length}개의 역 데이터 수집완료`);
 
-  await StationModel.insertMany(전철역_리스트);
+  await StationModel.insertMany({ 요일: getYMD(), 전철역_리스트 });
 
   console.log(`$$ DB 저장 완료 ✨`);
 };

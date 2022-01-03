@@ -10,7 +10,7 @@ export const findStations: RequestHandler[] = [
     const name = req.query.name as string | undefined;
 
     if (name) {
-      const data = await StationService.findStation({ name });
+      const data = await StationService.findStation({ 이름: name });
       res.send(data);
       return;
     }
