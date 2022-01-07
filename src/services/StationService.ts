@@ -71,11 +71,13 @@ export const collect호선 = async ({
       upDownTypeCode,
       numOfRows: 1000,
     });
-    if (!response?.body?.items) {
-      throw new Error(response.header.resultCode + response.header.resultMsg);
+
+    const timeTableList = response.body?.items?.item || [];
+
+    if (+response.header.resultCode === 99) {
+      throw Error(response.header.resultMsg);
     }
 
-    const timeTableList = response.body.items.item;
     시간표_리스트 = [...시간표_리스트, ...timeTableList.map(transferTimeTable)];
   }
 
