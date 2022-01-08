@@ -17,8 +17,8 @@ export const load_공공데이터_수집기 = async () => {
   // if (!runSchedule) return;
 
   const rule = new schedule.RecurrenceRule();
-  rule.hour = 0;
-  rule.minute = 11;
+  rule.hour = 15;
+  rule.minute = 26;
   rule.dayOfWeek = [0, new schedule.Range(0, 6)];
   rule.tz = "Asia/Seoul";
 

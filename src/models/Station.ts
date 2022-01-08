@@ -13,8 +13,8 @@ export const StationModel = mongoose.model<{
         역이름: { type: String, required: true },
         호선_리스트: [
           {
-            전철역_ID: { type: String, required: true },
-            호선이름: { type: String, required: true },
+            전철역_ID: String,
+            호선이름: String,
             시간표_리스트: [
               {
                 출발시간: String,

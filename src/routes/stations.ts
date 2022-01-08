@@ -1,6 +1,6 @@
 import express from "express";
 import { StationController } from "../controllers";
-import { decodeRequest } from "../middlewares";
+import { asyncErrorCatcher, decodeRequest } from "../middlewares";
 import { StationService } from "../services";
 import {
   getStationResponseList,
@@ -27,5 +27,13 @@ router.get("/transfered", async (req, res) => {
 
   res.send(result);
 });
+
+router.delete(
+  "/",
+  asyncErrorCatcher(async (req, res) => {
+    const result = await StationService.deleteStationByID(req.body.id);
+    res.send(result);
+  })
+);
 
 export default router;

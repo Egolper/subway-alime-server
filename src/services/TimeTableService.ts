@@ -4,18 +4,14 @@ import {
   TimeTableParams,
   TimeTableResponse,
 } from "@types";
-import axios from "axios";
+import { PublicAPIService } from ".";
 import { dailyTypeMapper, upDownTypeMapper } from "../utils";
 
-export const getStationTimeTable = async (params: TimeTableParams) => {
-  const { data } = await axios({
-    url: "http://openapi.tago.go.kr/openapi/service/SubwayInfoService/getSubwaySttnAcctoSchdulList",
-    params: {
-      serviceKey: process.env.DATA_API_KEY,
-      ...params,
-    },
-  });
-  return data as DataAPIResponse<TimeTableResponse>;
+export const getStationTimeTable = async (
+  params: TimeTableParams
+): Promise<DataAPIResponse<TimeTableResponse>> => {
+  const data = PublicAPIService.fetch({ url: "지하철시간표조회", params });
+  return data;
 };
 
 /* ----------------  ---------------- */

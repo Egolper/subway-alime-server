@@ -7,7 +7,7 @@ import {
   StationResponse,
 } from "@types";
 import axios from "axios";
-import { TimeTableService } from ".";
+import { PublicAPIService, TimeTableService } from ".";
 import { StationModel } from "../models";
 import {
   getTodayDailyType,
@@ -40,17 +40,17 @@ export const deleteStation = (name: string) => {
   return StationModel.deleteOne({ name });
 };
 
+export const deleteStationByID = (id: string) => {
+  return StationModel.deleteOne({ id });
+};
+
 /* ----------------  ---------------- */
 
-export const getStations = async (params: StationParams) => {
-  const { data } = await axios({
-    url: "http://openapi.tago.go.kr/openapi/service/SubwayInfoService/getKwrdFndSubwaySttnList",
-    params: {
-      serviceKey: process.env.DATA_API_KEY,
-      ...params,
-    },
-  });
-  return data as DataAPIResponse<StationResponse>;
+export const getStations = async (
+  params: StationParams
+): Promise<DataAPIResponse<StationResponse>> => {
+  const data = await PublicAPIService.fetch({ url: "지하철역조회", params });
+  return data;
 };
 
 /* ----------------  ---------------- */
@@ -122,7 +122,7 @@ export const collect지하철공공데이터 = async () => {
       전철역_리스트.push(전철역);
     }
   } catch (e) {
-    throw e;
+    console.error(e);
   }
 
   console.log(`$$ 총 ${전철역_리스트.length}개의 역 데이터 수집완료`);
@@ -130,6 +130,7 @@ export const collect지하철공공데이터 = async () => {
   await StationModel.insertMany({ 요일: getYMD(), 전철역_리스트 });
 
   console.log(`$$ DB 저장 완료 ✨`);
+  return 전철역_리스트;
 };
 
 /* ----------------  ---------------- */
