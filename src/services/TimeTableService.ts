@@ -10,7 +10,10 @@ import { dailyTypeMapper, upDownTypeMapper } from "../utils";
 export const getStationTimeTable = async (
   params: TimeTableParams
 ): Promise<DataAPIResponse<TimeTableResponse>> => {
-  const data = PublicAPIService.fetch({ url: "지하철시간표조회", params });
+  const data = await PublicAPIService.fetch({
+    url: "지하철시간표조회",
+    params,
+  });
   return data;
 };
 

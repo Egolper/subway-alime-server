@@ -23,7 +23,7 @@ export const fetch = async (props: IProps) => {
   });
   const data = res.data as DataAPIResponse<any>;
 
-  if (data.response.header.resultCode !== "99") return data;
+  if (+data.response.header.resultCode !== 99) return data;
 
   const res2 = await axios({
     url: publicAPILink[props.url],

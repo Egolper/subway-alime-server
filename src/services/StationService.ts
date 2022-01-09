@@ -6,7 +6,6 @@ import {
   StationParams,
   StationResponse,
 } from "@types";
-import axios from "axios";
 import { PublicAPIService, TimeTableService } from ".";
 import { StationModel } from "../models";
 import {
@@ -118,8 +117,15 @@ export const collect지하철공공데이터 = async () => {
   try {
     for (const station of stationList) {
       const 전철역 = await collect전철역(station);
-      console.log(`$$ ${전철역.역이름} 역 완료`);
+
+      await StationModel.findOneAndUpdate(
+        { 역이름: 전철역.역이름 },
+        { 전철역 },
+        { upsert: true, new: true, setDefaultsOnInsert: true }
+      );
+
       전철역_리스트.push(전철역);
+      console.log(`$$ ${전철역.역이름} 역 완료`);
     }
   } catch (e) {
     console.error(e);
@@ -127,9 +133,6 @@ export const collect지하철공공데이터 = async () => {
 
   console.log(`$$ 총 ${전철역_리스트.length}개의 역 데이터 수집완료`);
 
-  await StationModel.insertMany({ 요일: getYMD(), 전철역_리스트 });
-
-  console.log(`$$ DB 저장 완료 ✨`);
   return 전철역_리스트;
 };
 
