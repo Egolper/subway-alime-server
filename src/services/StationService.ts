@@ -10,6 +10,7 @@ import { PublicAPIService, TimeTableService } from ".";
 import { StationModel } from "../models";
 import {
   getTodayDailyType,
+  getTransferedStationList,
   getYMD,
   subwayRouteMapper,
   upDownTypeCodeList,
@@ -71,7 +72,9 @@ export const collect호선 = async ({
       numOfRows: 1000,
     });
 
-    const timeTableList = response.body?.items?.item || [];
+    let timeTableList = response?.body?.items?.item || [];
+    if (timeTableList.length === undefined)
+      timeTableList = [response.body.items.item as any];
 
     if (+response.header.resultCode === 99) {
       throw Error(response.header.resultMsg);
@@ -107,8 +110,10 @@ export const collect전철역 = async ({
 export const collect지하철공공데이터 = async () => {
   console.log(`$$ 지하철 공공데이터 수집 시작`);
 
-  const { response } = await getStations({ numOfRows: 1000 });
-  const stationList = transferStationList(response.body.items.item);
+  // const { response } = await getStations({ numOfRows: 1000 });
+  // const stationList = transferStationList(response.body.items.item);
+
+  const stationList = getTransferedStationList();
 
   console.log(`$$ 총 ${stationList.length}개의 역 데이터`);
 
@@ -120,9 +125,9 @@ export const collect지하철공공데이터 = async () => {
 
       await StationModel.findOneAndUpdate(
         { 역이름: 전철역.역이름 },
-        { 전철역 },
+        { ...전철역 },
         { upsert: true, new: true, setDefaultsOnInsert: true }
-      );
+      ).exec();
 
       전철역_리스트.push(전철역);
       console.log(`$$ ${전철역.역이름} 역 완료`);
